@@ -1,0 +1,35 @@
+{
+  "type": "design",
+  "designSystems": [],
+  "primaryDesignSystem": null,
+  "assets": {
+    "IPO 一览": {
+      "versions": [
+        {
+          "path": "index.html",
+          "createdAt": "2026-09-08T10:35:46.533Z",
+          "status": "needs-review",
+          "viewport": {
+            "width": 1440,
+            "height": 1000
+          }
+        }
+      ]
+    },
+    "股票详情": {
+      "versions": [
+        {
+          "path": "detail.html",
+          "createdAt": "2026-09-08T10:35:46.617Z",
+          "status": "needs-review",
+          "viewport": {
+            "width": 1440,
+            "height": 1000
+          }
+        }
+      ]
+    }
+  },
+  "createdAt": "2026-09-08T10:35:46.548Z",
+  "updatedAt": "2026-09-08T15:35:06.704Z"
+}

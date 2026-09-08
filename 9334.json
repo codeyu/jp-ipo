@@ -1,0 +1,3386 @@
+{
+  "schema_version": 1,
+  "code": "9334",
+  "source": "ipo96ut",
+  "detail_url": "https://kabu.96ut.com/article/ipo/2026034/",
+  "scraped_at": "2026-09-07T14:02:36.487219+00:00",
+  "company": {
+    "lead_underwriter": "フィリップ証券",
+    "name": {
+      "raw": "アイビスホールディングス"
+    },
+    "website": "https://ibisholdings.co.jp/",
+    "address": {
+      "raw": "東京都千代田区外神田二丁目 15 番 12 号"
+    },
+    "established": {
+      "raw": "2020年10月30日"
+    },
+    "employees": {
+      "value": 99,
+      "unit": "people",
+      "raw": "99人",
+      "estimated": null
+    },
+    "auditor": {
+      "raw": "監査法人コスモス"
+    }
+  },
+  "business": {
+    "sections": [
+      {
+        "title": "アイビスホールディングスの概要",
+        "markdown": "[9334]\n:\n[アイビスホールディングス](https://ibisholdings.co.jp/)\n市場\n:名N (サービス業)\n事業内容\n:就労継続支援 B 型事業所の運営"
+      }
+    ],
+    "use_of_proceeds": {
+      "raw": "自動記録ビジネス電話の導入。利用管理記録システム。支援記録作成AI。"
+    },
+    "description_raw": "[9334] : アイビスホールディングス 市場 :名N (サービス業) 事業内容 :就労継続支援 B 型事業所の運営"
+  },
+  "schedule": {
+    "range_announcement": {
+      "raw": "2026/09/24 (木)"
+    },
+    "bookbuilding_period": {
+      "raw": "開始 : 2026/09/25 (金) ～ 終了 : 2026/10/01 (木)"
+    },
+    "price_announcement": {
+      "raw": "2026/10/02 (金)"
+    },
+    "purchase_period": {
+      "raw": "開始 : 2026/10/05 (月) ～ 終了 : 2026/10/08 (木)"
+    },
+    "listing_date": {
+      "raw": "2026/10/13 (火)"
+    }
+  },
+  "offering": {
+    "offering_breakdown": {
+      "raw": "総計：200,000株 （公募：200,000株 / 売出：0株）売出株式比率：0.0%"
+    },
+    "oa_shares": {
+      "value": 30000,
+      "unit": "shares",
+      "raw": "30,000株 (O.A.=オーバーアロットメント)",
+      "estimated": null
+    },
+    "issued_shares": {
+      "value": 1998000,
+      "unit": "shares",
+      "raw": "1,998,000株 （上場時、公募株数含む）",
+      "estimated": null
+    },
+    "offering_ratio": {
+      "value": 11.5,
+      "unit": "%",
+      "raw": "11.5% (オファリング・レシオ、OA分含む計算)",
+      "estimated": null
+    }
+  },
+  "pricing": {
+    "expected_price": {
+      "value": 500,
+      "unit": "JPY",
+      "raw": "500円",
+      "estimated": null
+    },
+    "provisional_range": {
+      "raw": "未発表",
+      "low": null,
+      "high": null,
+      "unit": "JPY"
+    },
+    "offer_price": {
+      "value": null,
+      "unit": "JPY",
+      "raw": "未決定",
+      "estimated": null
+    }
+  },
+  "valuation": {},
+  "underwriters": [
+    {
+      "section": "アイビスホールディングスの取り扱い証券会社と引受割合・シンジケート",
+      "headers": [
+        "証券会社名",
+        "割当数",
+        "割当(%)",
+        "抽選配分"
+      ],
+      "records": [
+        {
+          "証券会社名": {
+            "text": "フィリップ証券",
+            "links": [
+              {
+                "text": "フィリップ証券",
+                "url": "https://kabu.96ut.com/article/security/phillip/"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "割当数": {
+            "text": "84,000株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 84000,
+            "unit": "shares",
+            "raw": "84,000株",
+            "estimated": null
+          },
+          "割当(%)": {
+            "text": "42.00%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 42.0,
+            "unit": "%",
+            "raw": "42.00%",
+            "estimated": null
+          },
+          "抽選配分": {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "lots",
+            "raw": "-",
+            "estimated": true
+          }
+        },
+        {
+          "証券会社名": {
+            "text": "SBI証券",
+            "links": [
+              {
+                "text": "SBI証券",
+                "url": "https://kabu.96ut.com/al/sbi/"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "割当数": {
+            "text": "20,000株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 20000,
+            "unit": "shares",
+            "raw": "20,000株",
+            "estimated": null
+          },
+          "割当(%)": {
+            "text": "10.00%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 10.0,
+            "unit": "%",
+            "raw": "10.00%",
+            "estimated": null
+          },
+          "抽選配分": {
+            "text": "90枚",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 90,
+            "unit": "lots",
+            "raw": "90枚",
+            "estimated": true
+          }
+        },
+        {
+          "証券会社名": {
+            "text": "楽天証券",
+            "links": [
+              {
+                "text": "楽天証券",
+                "url": "https://kabu.96ut.com/al/rakuten/"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "割当数": {
+            "text": "20,000株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 20000,
+            "unit": "shares",
+            "raw": "20,000株",
+            "estimated": null
+          },
+          "割当(%)": {
+            "text": "10.00%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 10.0,
+            "unit": "%",
+            "raw": "10.00%",
+            "estimated": null
+          },
+          "抽選配分": {
+            "text": "200枚",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 200,
+            "unit": "lots",
+            "raw": "200枚",
+            "estimated": true
+          }
+        },
+        {
+          "証券会社名": {
+            "text": "マネックス証券",
+            "links": [
+              {
+                "text": "マネックス証券",
+                "url": "https://kabu.96ut.com/al/monex/"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "割当数": {
+            "text": "20,000株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 20000,
+            "unit": "shares",
+            "raw": "20,000株",
+            "estimated": null
+          },
+          "割当(%)": {
+            "text": "10.00%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 10.0,
+            "unit": "%",
+            "raw": "10.00%",
+            "estimated": null
+          },
+          "抽選配分": {
+            "text": "200枚",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 200,
+            "unit": "lots",
+            "raw": "200枚",
+            "estimated": true
+          }
+        },
+        {
+          "証券会社名": {
+            "text": "松井証券",
+            "links": [
+              {
+                "text": "松井証券",
+                "url": "https://kabu.96ut.com/al/matsui/"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "割当数": {
+            "text": "16,000株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 16000,
+            "unit": "shares",
+            "raw": "16,000株",
+            "estimated": null
+          },
+          "割当(%)": {
+            "text": "8.00%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 8.0,
+            "unit": "%",
+            "raw": "8.00%",
+            "estimated": null
+          },
+          "抽選配分": {
+            "text": "160枚",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 160,
+            "unit": "lots",
+            "raw": "160枚",
+            "estimated": true
+          }
+        },
+        {
+          "証券会社名": {
+            "text": "東洋証券",
+            "links": [
+              {
+                "text": "東洋証券",
+                "url": "https://kabu.96ut.com/article/security/toyo-sec/"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "割当数": {
+            "text": "10,000株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 10000,
+            "unit": "shares",
+            "raw": "10,000株",
+            "estimated": null
+          },
+          "割当(%)": {
+            "text": "5.00%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 5.0,
+            "unit": "%",
+            "raw": "5.00%",
+            "estimated": null
+          },
+          "抽選配分": {
+            "text": "10枚",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 10,
+            "unit": "lots",
+            "raw": "10枚",
+            "estimated": true
+          }
+        },
+        {
+          "証券会社名": {
+            "text": "水戸証券",
+            "links": [
+              {
+                "text": "水戸証券",
+                "url": "https://kabu.96ut.com/article/security/mito/"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "割当数": {
+            "text": "10,000株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 10000,
+            "unit": "shares",
+            "raw": "10,000株",
+            "estimated": null
+          },
+          "割当(%)": {
+            "text": "5.00%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 5.0,
+            "unit": "%",
+            "raw": "5.00%",
+            "estimated": null
+          },
+          "抽選配分": {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "lots",
+            "raw": "-",
+            "estimated": true
+          }
+        },
+        {
+          "証券会社名": {
+            "text": "Jトラストグローバル証券",
+            "links": [
+              {
+                "text": "Jトラストグローバル証券",
+                "url": "https://kabu.96ut.com/article/security/hs/"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "割当数": {
+            "text": "10,000株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 10000,
+            "unit": "shares",
+            "raw": "10,000株",
+            "estimated": null
+          },
+          "割当(%)": {
+            "text": "5.00%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 5.0,
+            "unit": "%",
+            "raw": "5.00%",
+            "estimated": null
+          },
+          "抽選配分": {
+            "text": "16枚",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 16,
+            "unit": "lots",
+            "raw": "16枚",
+            "estimated": true
+          }
+        },
+        {
+          "証券会社名": {
+            "text": "安藤証券",
+            "links": [
+              {
+                "text": "安藤証券",
+                "url": "https://kabu.96ut.com/article/security/ando-sec/"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "割当数": {
+            "text": "10,000株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 10000,
+            "unit": "shares",
+            "raw": "10,000株",
+            "estimated": null
+          },
+          "割当(%)": {
+            "text": "5.00%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": 5.0,
+            "unit": "%",
+            "raw": "5.00%",
+            "estimated": null
+          },
+          "抽選配分": {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "lots",
+            "raw": "-",
+            "estimated": true
+          }
+        },
+        {
+          "証券会社名": {
+            "text": "(その他：)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "4"
+          }
+        }
+      ],
+      "context": "フィリップ証券",
+      "raw_table_index": 4
+    }
+  ],
+  "subscription_brokers": [],
+  "financials": [
+    {
+      "section": "アイビスホールディングスの概況（直近の経営指標、業績予想）",
+      "headers": [
+        "決算期",
+        "売上 変化率",
+        "経常利益 変化率",
+        "当期利益 変化率",
+        "純資産 総資産"
+      ],
+      "records": [
+        {
+          "決算期": {
+            "text": "2021/06 (単・1期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "売上 変化率": {
+            "text": "13,750",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "経常利益 変化率": {
+            "text": "1,265",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "当期利益 変化率": {
+            "text": "513",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "純資産 総資産": {
+            "text": "90,413 106,539",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "決算期": {
+            "text": "2021/10 (単・2期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "売上 変化率": {
+            "text": "18,700 36.0%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "経常利益 変化率": {
+            "text": "-9,508 -851.6%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "当期利益 変化率": {
+            "text": "399 -22.2%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "純資産 総資産": {
+            "text": "90,813 135,796",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "決算期": {
+            "text": "2022/10 (単・3期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "売上 変化率": {
+            "text": "77,000 311.8%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "経常利益 変化率": {
+            "text": "8,397 -188.3%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "当期利益 変化率": {
+            "text": "6,679 1,573.9%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "純資産 総資産": {
+            "text": "97,492 112,192",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "決算期": {
+            "text": "2023/10 (単・4期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "売上 変化率": {
+            "text": "114,630 48.9%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "経常利益 変化率": {
+            "text": "20,904 148.9%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "当期利益 変化率": {
+            "text": "15,574 133.2%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "純資産 総資産": {
+            "text": "113,066 141,595",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "決算期": {
+            "text": "2024/10 (単・5期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "売上 変化率": {
+            "text": "154,390 34.7%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "経常利益 変化率": {
+            "text": "46,762 123.7%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "当期利益 変化率": {
+            "text": "-36,319 -333.2%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "純資産 総資産": {
+            "text": "76,747 224,820",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "決算期": {
+            "text": "2025/10 (単・6期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "売上 変化率": {
+            "text": "177,175 14.8%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "経常利益 変化率": {
+            "text": "37,254 -20.3%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "当期利益 変化率": {
+            "text": "20,684 -157.0%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "純資産 総資産": {
+            "text": "97,431 330,637",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        }
+      ],
+      "context": "",
+      "raw_table_index": 6
+    },
+    {
+      "section": "アイビスホールディングスの概況（直近の経営指標、業績予想）",
+      "headers": [
+        "決算期",
+        "売上",
+        "経常利益",
+        "当期利益",
+        "純資産 総資産"
+      ],
+      "records": [
+        {
+          "決算期": {
+            "text": "2024/10 (連・5期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "売上": {
+            "text": "894,558",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "経常利益": {
+            "text": "25,576",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "当期利益": {
+            "text": "2,511",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "純資産 総資産": {
+            "text": "125,993 571,057",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "決算期": {
+            "text": "2025/10 (連・6期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "売上": {
+            "text": "1,094,078 22.3%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "経常利益": {
+            "text": "45,761 78.9%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "当期利益": {
+            "text": "35,284 1,305.2%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "純資産 総資産": {
+            "text": "161,277 736,830",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        }
+      ],
+      "context": "",
+      "raw_table_index": 7
+    },
+    {
+      "section": "1株あたりに基づく指標",
+      "headers": [
+        "決算期",
+        "EPS",
+        "BPS",
+        "配当"
+      ],
+      "records": [
+        {
+          "決算期": {
+            "text": "2021/06(単・1期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "EPS": {
+            "text": "57.12",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "BPS": {
+            "text": "10,057.12",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "配当": {
+            "text": "0",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "決算期": {
+            "text": "2021/10(単・2期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "EPS": {
+            "text": "44.46",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "BPS": {
+            "text": "10,101.58",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "配当": {
+            "text": "0",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "決算期": {
+            "text": "2022/10(単・3期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "EPS": {
+            "text": "742.95",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "BPS": {
+            "text": "10,844.54",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "配当": {
+            "text": "0",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "決算期": {
+            "text": "2023/10(単・4期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "EPS": {
+            "text": "17.32",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "BPS": {
+            "text": "125.77",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "配当": {
+            "text": "0",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "決算期": {
+            "text": "2024/10(単・5期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "EPS": {
+            "text": "-20.20",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "BPS": {
+            "text": "42.69",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "配当": {
+            "text": "0",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "決算期": {
+            "text": "2025/10(単・6期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "EPS": {
+            "text": "11.51",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "BPS": {
+            "text": "54.19",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "配当": {
+            "text": "0",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        }
+      ],
+      "context": "1株あたりに基づく指標",
+      "raw_table_index": 8
+    },
+    {
+      "section": "1株あたりに基づく指標",
+      "headers": [
+        "決算期",
+        "EPS",
+        "BPS",
+        "配当"
+      ],
+      "records": [
+        {
+          "決算期": {
+            "text": "2024/10(連・5期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "EPS": {
+            "text": "1.40",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "BPS": {
+            "text": "70.08",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "配当": {
+            "text": "--",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "決算期": {
+            "text": "2025/10(連・6期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "EPS": {
+            "text": "19.62",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "BPS": {
+            "text": "89.70",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "配当": {
+            "text": "--",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        }
+      ],
+      "context": "1株あたりに基づく指標",
+      "raw_table_index": 9
+    }
+  ],
+  "shareholders": [],
+  "stock_options": [
+    {
+      "section": "アイビスホールディングスのストックオプション（新株予約権）の状況",
+      "headers": [
+        "総会決議",
+        "対象株数（株）",
+        "行使価格（円）",
+        "行使期間"
+      ],
+      "records": [
+        {
+          "総会決議": {
+            "text": "2025-01-30",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "対象株数（株）": {
+            "text": "100,000",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "行使価格（円）": {
+            "text": "650",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "行使期間": {
+            "text": "(自)2027-03-15～(至)2035-03-14",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "総会決議": {
+            "text": "SO総計(1)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "対象株数（株）": {
+            "text": "100,000",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "行使価格（円）": {
+            "text": "上場時算入",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "行使期間": {
+            "text": "0株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        }
+      ],
+      "context": "アイビスホールディングスのストックオプション（新株予約権）の状況",
+      "raw_table_index": 10
+    }
+  ],
+  "analysis": [
+    {
+      "title": "アイビスホールディングスの初値予想・評価・BBスタンス・初値結果関連",
+      "markdown": "| BB参加姿勢 | 評価：未評価(BB姿勢はBB期間開始直前に更新します) |\n| --- | --- |\n| 初値予想(BB開始時) | まだ更新していません |\n| 直前予想(上場前) | まだ更新していません |\n\n※評価はＳ～Ｄまで、初値予想はＢＢ開始時と上場前直前に行っています。\n・新規承認時の第一印象\nTOKYO PRO Market 及び Fukuoka PRO Marketからの鞍替え上場。同時に福証Qボードへも上場。\n・ブックビルディング姿勢に対するコメント"
+    },
+    {
+      "title": "アイビスホールディングスへのみんなの初値予想",
+      "markdown": "初値的中で最大2000円分のアマゾンギフト券をゲット！\n皆さんの初値予想の投稿をお待ちしています。\n\n⇒\n[アイビスホールディングスの初値予想を投稿する](https://kabu.96ut.com/yoso/index.php?ipo_id=2026034)\n現在の読者予想件数：2件\n読者予想サマリ 平均値：934円 | 中央値：567円 |\n補正値：934円\n\n最高：1,300円\n>>>>\n最低：567円\nJr様(2026/09/07) スタンス：(C) BB期間終了前\n予想値：567円(想定価格比：\n+67円\n)\n名証ネクストなので、10％前後の微増と思われます。\nムキムキムキムキ爺さん様(2026/09/07) スタンス：(D)\nメルアドなし\nBB期間終了前\n予想値：1,300円(想定価格比：\n+800円\n)\nムキムキしませんね(-。-)y-゜゜゜\n[⇒読者IPO初値予想一覧ページはこちら](https://96ut.com/ipo/yoso.php)\n※ 情報は更新・訂正されている可能性がありますので、詳細は企業ホームページ・目論見書などで確認してください。\n- 日程・概要\n- 割当\n- 業績・株主\n- スタンス・評価\n- 読者予想"
+    }
+  ],
+  "reader_forecasts": [
+    {
+      "title": "アイビスホールディングスへのみんなの初値予想",
+      "markdown": "初値的中で最大2000円分のアマゾンギフト券をゲット！\n皆さんの初値予想の投稿をお待ちしています。\n\n⇒\n[アイビスホールディングスの初値予想を投稿する](https://kabu.96ut.com/yoso/index.php?ipo_id=2026034)\n現在の読者予想件数：2件\n読者予想サマリ 平均値：934円 | 中央値：567円 |\n補正値：934円\n\n最高：1,300円\n>>>>\n最低：567円\nJr様(2026/09/07) スタンス：(C) BB期間終了前\n予想値：567円(想定価格比：\n+67円\n)\n名証ネクストなので、10％前後の微増と思われます。\nムキムキムキムキ爺さん様(2026/09/07) スタンス：(D)\nメルアドなし\nBB期間終了前\n予想値：1,300円(想定価格比：\n+800円\n)\nムキムキしませんね(-。-)y-゜゜゜\n[⇒読者IPO初値予想一覧ページはこちら](https://96ut.com/ipo/yoso.php)\n※ 情報は更新・訂正されている可能性がありますので、詳細は企業ホームページ・目論見書などで確認してください。\n- 日程・概要\n- 割当\n- 業績・株主\n- スタンス・評価\n- 読者予想"
+    }
+  ],
+  "documents": [
+    {
+      "title": "アイビスホールディングスの目論見書(初回PDF)",
+      "url": "https://96ut.com/ipo/statement/mokuromi/2026034.pdf",
+      "local_path": null
+    },
+    {
+      "title": "アイビスホールディングスの企業の概況・経営指標詳細",
+      "url": "https://96ut.com/ipo/statement/2026034/0201010_honbun_jpcrp020400-srs-001_E42121-000_2025-10-31_01_2026-09-07_ixbrl.htm",
+      "local_path": null
+    },
+    {
+      "title": "アイビスホールディングスの株式公開情報、株主の状況詳細など",
+      "url": "https://96ut.com/ipo/statement/2026034/0401010_honbun_jpcrp020400-srs-001_E42121-000_2025-10-31_01_2026-09-07_ixbrl.htm",
+      "local_path": null
+    },
+    {
+      "title": "アイビスホールディングスのロックアップ情報詳細",
+      "url": "https://96ut.com/ipo/statement/2026034/0101010_honbun_jpcrp020400-srs-001_E42121-000_2025-10-31_01_2026-09-07_ixbrl.htm",
+      "local_path": null
+    }
+  ],
+  "content": {
+    "markdown": "# アイビスホールディングス(9334)のIPO新規上場情報\n\n- 公開日： 2026年9月7日\n\n- IPO・新規公開株\n\n- 日程・概要\n- 割当\n- 業績・株主\n- スタンス・評価\n- 読者予想\n\n### アイビスホールディングスの概要\n\n[9334]\n:\n[アイビスホールディングス](https://ibisholdings.co.jp/)\n市場\n:名N (サービス業)\n事業内容\n:就労継続支援 B 型事業所の運営\n\n### アイビスホールディングスのIPO(新規上場)日程関連\n\n| 仮条件決定日 | 2026/09/24 (木) |\n| --- | --- |\n| ＢＢ期間 | 開始: 2026/09/25 (金) ～ 終了: 2026/10/01 (木) |\n| 公募価格決定 | 2026/10/02 (金) |\n| 購入申込期間 | 開始: 2026/10/05 (月) ～ 終了: 2026/10/08 (木) |\n| 上場予定日 | 2026/10/13 (火) |\n\n### アイビスホールディングスのIPO(新規上場)基本情報\n\n| 公募株式数 | 総計：200,000株（公募：200,000株 / 売出：0株）売出株式比率：0.0% |\n| --- | --- |\n| O.A.分 | 30,000株 (O.A.=オーバーアロットメント) |\n| 発行済株数 | 1,998,000株 （上場時、公募株数含む） |\n| OR | 11.5% (オファリング・レシオ、OA分含む計算) |\n| 想定価格 | 500円 |\n| 仮条件価格 | 未発表 |\n| 公募価格 | 未決定 |\n| IPOの資金用途 | 自動記録ビジネス電話の導入。利用管理記録システム。支援記録作成AI。 |\n\n### アイビスホールディングスのIPO価格マトリックス(価格・吸収金額・時価総額)\n\n| 想定価格 | 公開価格 | 初値 | 現在値 |\n| --- | --- | --- | --- |\n| 株価 | 500円 | - | - | - |\n| 変化率 | - | - | - |\n| 吸収金額 | 1.15億円 | - | - |\n| 時価総額 | 9.99億円 | - | - | - |\n\n※左から右へ時系列的に並んでいます。増減比は左のカラム（行）に対するものです。\n※吸収金額はOA(オーバーアロットメント)分を含んで計算しています。\n- 日程・概要\n- 割当\n- 業績・株主\n- スタンス・評価\n- 読者予想\n\n### アイビスホールディングスの取り扱い証券会社と引受割合・シンジケート\n\n| 主幹事証券 | [フィリップ証券](https://kabu.96ut.com/article/security/phillip/) |\n| --- | --- |\n| 幹事団と割当 |  |\n\n| 証券会社名 | 割当数 | 割当(%) | 抽選配分 |\n| --- | --- | --- | --- |\n| [フィリップ証券](https://kabu.96ut.com/article/security/phillip/) | 84,000株 | 42.00% | - |\n| [SBI証券](https://kabu.96ut.com/al/sbi/) | 20,000株 | 10.00% | 90枚 |\n| [楽天証券](https://kabu.96ut.com/al/rakuten/) | 20,000株 | 10.00% | 200枚 |\n| [マネックス証券](https://kabu.96ut.com/al/monex/) | 20,000株 | 10.00% | 200枚 |\n| [松井証券](https://kabu.96ut.com/al/matsui/) | 16,000株 | 8.00% | 160枚 |\n| [東洋証券](https://kabu.96ut.com/article/security/toyo-sec/) | 10,000株 | 5.00% | 10枚 |\n| [水戸証券](https://kabu.96ut.com/article/security/mito/) | 10,000株 | 5.00% | - |\n| [Jトラストグローバル証券](https://kabu.96ut.com/article/security/hs/) | 10,000株 | 5.00% | 16枚 |\n| [安藤証券](https://kabu.96ut.com/article/security/ando-sec/) | 10,000株 | 5.00% | - |\n| (その他：) |\n\n※割当数が斜め文字時は推定計算数で掲載しています。参考値として利用ください。後日、正確な数字（公開価格発表以降）に訂正されますので、ご了承ください。\n\n※抽選配分は過去の個人投資家への同一条件抽選状況をもとに、およその配分量を算出したものです。\n\n### 企業データ\n\n| 会社名 | [アイビスホールディングス](https://ibisholdings.co.jp/) |\n| --- | --- |\n| 所在地 | 東京都千代田区外神田二丁目 15 番 12 号 |\n| 設立 | 2020年10月30日 |\n| 従業員数 | 99人 |\n| 監査法人 | 監査法人コスモス |\n\n### アイビスホールディングスの概況（直近の経営指標、業績予想）\n\n⇒\n[アイビスホールディングスの目論見書(初回PDF)](https://96ut.com/ipo/statement/mokuromi/2026034.pdf)\n・単独(単位・千or百)\n\n| 決算期 | 売上変化率 | 経常利益変化率 | 当期利益変化率 | 純資産 総資産 |\n| --- | --- | --- | --- | --- |\n| 2021/06 (単・1期) | 13,750 | 1,265 | 513 | 90,413 106,539 |\n| 2021/10 (単・2期) | 18,700 36.0% | -9,508 -851.6% | 399 -22.2% | 90,813 135,796 |\n| 2022/10 (単・3期) | 77,000 311.8% | 8,397 -188.3% | 6,679 1,573.9% | 97,492 112,192 |\n| 2023/10 (単・4期) | 114,630 48.9% | 20,904 148.9% | 15,574 133.2% | 113,066 141,595 |\n| 2024/10 (単・5期) | 154,390 34.7% | 46,762 123.7% | -36,319 -333.2% | 76,747 224,820 |\n| 2025/10 (単・6期) | 177,175 14.8% | 37,254 -20.3% | 20,684 -157.0% | 97,431 330,637 |\n\n・連結(単位・千or百万)\n\n| 決算期 | 売上 | 経常利益 | 当期利益 | 純資産 総資産 |\n| --- | --- | --- | --- | --- |\n| 2024/10 (連・5期) | 894,558 | 25,576 | 2,511 | 125,993 571,057 |\n| 2025/10 (連・6期) | 1,094,078 22.3% | 45,761 78.9% | 35,284 1,305.2% | 161,277 736,830 |\n\n##### 1株あたりに基づく指標\n\n・単独\n\n| 決算期 | EPS | BPS | 配当 |\n| --- | --- | --- | --- |\n| 2021/06(単・1期) | 57.12 | 10,057.12 | 0 |\n| 2021/10(単・2期) | 44.46 | 10,101.58 | 0 |\n| 2022/10(単・3期) | 742.95 | 10,844.54 | 0 |\n| 2023/10(単・4期) | 17.32 | 125.77 | 0 |\n| 2024/10(単・5期) | -20.20 | 42.69 | 0 |\n| 2025/10(単・6期) | 11.51 | 54.19 | 0 |\n\n・連結\n\n| 決算期 | EPS | BPS | 配当 |\n| --- | --- | --- | --- |\n| 2024/10(連・5期) | 1.40 | 70.08 | -- |\n| 2025/10(連・6期) | 19.62 | 89.70 | -- |\n\n⇒\n[アイビスホールディングスの企業の概況・経営指標詳細](https://96ut.com/ipo/statement/2026034/0201010_honbun_jpcrp020400-srs-001_E42121-000_2025-10-31_01_2026-09-07_ixbrl.htm)\n⇒\n[アイビスホールディングスの株式公開情報、株主の状況詳細など](https://96ut.com/ipo/statement/2026034/0401010_honbun_jpcrp020400-srs-001_E42121-000_2025-10-31_01_2026-09-07_ixbrl.htm)\n⇒\n[アイビスホールディングスのロックアップ情報詳細](https://96ut.com/ipo/statement/2026034/0101010_honbun_jpcrp020400-srs-001_E42121-000_2025-10-31_01_2026-09-07_ixbrl.htm)\n\n### アイビスホールディングスのストックオプション（新株予約権）の状況\n\n| 総会決議 | 対象株数（株） | 行使価格（円） | 行使期間 |\n| --- | --- | --- | --- |\n| 2025-01-30 | 100,000 | 650 | (自)2027-03-15～(至)2035-03-14 |\n| SO総計(1) | 100,000 | 上場時算入 | 0株 |\n\n※上場時に対象となるストックオプションの対象株数を青色で表示\n⇒\n[アイビスホールディングスのストックオプション情報詳細](https://96ut.com/ipo/statement/2026034/0204010_honbun_jpcrp020400-srs-001_E42121-000_2025-10-31_01_2026-09-07_ixbrl.htm)\n- 日程・概要\n- 割当\n- 業績・株主\n- スタンス・評価\n- 読者予想\n\n### アイビスホールディングスの初値予想・評価・BBスタンス・初値結果関連\n\n| BB参加姿勢 | 評価：未評価(BB姿勢はBB期間開始直前に更新します) |\n| --- | --- |\n| 初値予想(BB開始時) | まだ更新していません |\n| 直前予想(上場前) | まだ更新していません |\n\n※評価はＳ～Ｄまで、初値予想はＢＢ開始時と上場前直前に行っています。\n・新規承認時の第一印象\nTOKYO PRO Market 及び Fukuoka PRO Marketからの鞍替え上場。同時に福証Qボードへも上場。\n・ブックビルディング姿勢に対するコメント\n\n### アイビスホールディングスへのみんなの初値予想\n\n初値的中で最大2000円分のアマゾンギフト券をゲット！\n皆さんの初値予想の投稿をお待ちしています。\n\n⇒\n[アイビスホールディングスの初値予想を投稿する](https://kabu.96ut.com/yoso/index.php?ipo_id=2026034)\n現在の読者予想件数：2件\n読者予想サマリ 平均値：934円 | 中央値：567円 |\n補正値：934円\n\n最高：1,300円\n>>>>\n最低：567円\nJr様(2026/09/07) スタンス：(C) BB期間終了前\n予想値：567円(想定価格比：\n+67円\n)\n名証ネクストなので、10％前後の微増と思われます。\nムキムキムキムキ爺さん様(2026/09/07) スタンス：(D)\nメルアドなし\nBB期間終了前\n予想値：1,300円(想定価格比：\n+800円\n)\nムキムキしませんね(-。-)y-゜゜゜\n[⇒読者IPO初値予想一覧ページはこちら](https://96ut.com/ipo/yoso.php)\n※ 情報は更新・訂正されている可能性がありますので、詳細は企業ホームページ・目論見書などで確認してください。\n- 日程・概要\n- 割当\n- 業績・株主\n- スタンス・評価\n- 読者予想\n\n## 投稿ナビゲーション\n\n[レイヤード(634A)のIPO新規上場情報](https://kabu.96ut.com/article/ipo/2026033/)",
+    "sections": [
+      {
+        "title": "アイビスホールディングス(9334)のIPO新規上場情報",
+        "markdown": "- 公開日： 2026年9月7日\n\n- IPO・新規公開株\n\n- 日程・概要\n- 割当\n- 業績・株主\n- スタンス・評価\n- 読者予想"
+      },
+      {
+        "title": "アイビスホールディングスの概要",
+        "markdown": "[9334]\n:\n[アイビスホールディングス](https://ibisholdings.co.jp/)\n市場\n:名N (サービス業)\n事業内容\n:就労継続支援 B 型事業所の運営"
+      },
+      {
+        "title": "アイビスホールディングスのIPO(新規上場)日程関連",
+        "markdown": "| 仮条件決定日 | 2026/09/24 (木) |\n| --- | --- |\n| ＢＢ期間 | 開始: 2026/09/25 (金) ～ 終了: 2026/10/01 (木) |\n| 公募価格決定 | 2026/10/02 (金) |\n| 購入申込期間 | 開始: 2026/10/05 (月) ～ 終了: 2026/10/08 (木) |\n| 上場予定日 | 2026/10/13 (火) |"
+      },
+      {
+        "title": "アイビスホールディングスのIPO(新規上場)基本情報",
+        "markdown": "| 公募株式数 | 総計：200,000株（公募：200,000株 / 売出：0株）売出株式比率：0.0% |\n| --- | --- |\n| O.A.分 | 30,000株 (O.A.=オーバーアロットメント) |\n| 発行済株数 | 1,998,000株 （上場時、公募株数含む） |\n| OR | 11.5% (オファリング・レシオ、OA分含む計算) |\n| 想定価格 | 500円 |\n| 仮条件価格 | 未発表 |\n| 公募価格 | 未決定 |\n| IPOの資金用途 | 自動記録ビジネス電話の導入。利用管理記録システム。支援記録作成AI。 |"
+      },
+      {
+        "title": "アイビスホールディングスのIPO価格マトリックス(価格・吸収金額・時価総額)",
+        "markdown": "| 想定価格 | 公開価格 | 初値 | 現在値 |\n| --- | --- | --- | --- |\n| 株価 | 500円 | - | - | - |\n| 変化率 | - | - | - |\n| 吸収金額 | 1.15億円 | - | - |\n| 時価総額 | 9.99億円 | - | - | - |\n\n※左から右へ時系列的に並んでいます。増減比は左のカラム（行）に対するものです。\n※吸収金額はOA(オーバーアロットメント)分を含んで計算しています。\n- 日程・概要\n- 割当\n- 業績・株主\n- スタンス・評価\n- 読者予想"
+      },
+      {
+        "title": "アイビスホールディングスの取り扱い証券会社と引受割合・シンジケート",
+        "markdown": "| 主幹事証券 | [フィリップ証券](https://kabu.96ut.com/article/security/phillip/) |\n| --- | --- |\n| 幹事団と割当 |  |\n\n| 証券会社名 | 割当数 | 割当(%) | 抽選配分 |\n| --- | --- | --- | --- |\n| [フィリップ証券](https://kabu.96ut.com/article/security/phillip/) | 84,000株 | 42.00% | - |\n| [SBI証券](https://kabu.96ut.com/al/sbi/) | 20,000株 | 10.00% | 90枚 |\n| [楽天証券](https://kabu.96ut.com/al/rakuten/) | 20,000株 | 10.00% | 200枚 |\n| [マネックス証券](https://kabu.96ut.com/al/monex/) | 20,000株 | 10.00% | 200枚 |\n| [松井証券](https://kabu.96ut.com/al/matsui/) | 16,000株 | 8.00% | 160枚 |\n| [東洋証券](https://kabu.96ut.com/article/security/toyo-sec/) | 10,000株 | 5.00% | 10枚 |\n| [水戸証券](https://kabu.96ut.com/article/security/mito/) | 10,000株 | 5.00% | - |\n| [Jトラストグローバル証券](https://kabu.96ut.com/article/security/hs/) | 10,000株 | 5.00% | 16枚 |\n| [安藤証券](https://kabu.96ut.com/article/security/ando-sec/) | 10,000株 | 5.00% | - |\n| (その他：) |\n\n※割当数が斜め文字時は推定計算数で掲載しています。参考値として利用ください。後日、正確な数字（公開価格発表以降）に訂正されますので、ご了承ください。\n\n※抽選配分は過去の個人投資家への同一条件抽選状況をもとに、およその配分量を算出したものです。"
+      },
+      {
+        "title": "企業データ",
+        "markdown": "| 会社名 | [アイビスホールディングス](https://ibisholdings.co.jp/) |\n| --- | --- |\n| 所在地 | 東京都千代田区外神田二丁目 15 番 12 号 |\n| 設立 | 2020年10月30日 |\n| 従業員数 | 99人 |\n| 監査法人 | 監査法人コスモス |"
+      },
+      {
+        "title": "アイビスホールディングスの概況（直近の経営指標、業績予想）",
+        "markdown": "⇒\n[アイビスホールディングスの目論見書(初回PDF)](https://96ut.com/ipo/statement/mokuromi/2026034.pdf)\n・単独(単位・千or百)\n\n| 決算期 | 売上変化率 | 経常利益変化率 | 当期利益変化率 | 純資産 総資産 |\n| --- | --- | --- | --- | --- |\n| 2021/06 (単・1期) | 13,750 | 1,265 | 513 | 90,413 106,539 |\n| 2021/10 (単・2期) | 18,700 36.0% | -9,508 -851.6% | 399 -22.2% | 90,813 135,796 |\n| 2022/10 (単・3期) | 77,000 311.8% | 8,397 -188.3% | 6,679 1,573.9% | 97,492 112,192 |\n| 2023/10 (単・4期) | 114,630 48.9% | 20,904 148.9% | 15,574 133.2% | 113,066 141,595 |\n| 2024/10 (単・5期) | 154,390 34.7% | 46,762 123.7% | -36,319 -333.2% | 76,747 224,820 |\n| 2025/10 (単・6期) | 177,175 14.8% | 37,254 -20.3% | 20,684 -157.0% | 97,431 330,637 |\n\n・連結(単位・千or百万)\n\n| 決算期 | 売上 | 経常利益 | 当期利益 | 純資産 総資産 |\n| --- | --- | --- | --- | --- |\n| 2024/10 (連・5期) | 894,558 | 25,576 | 2,511 | 125,993 571,057 |\n| 2025/10 (連・6期) | 1,094,078 22.3% | 45,761 78.9% | 35,284 1,305.2% | 161,277 736,830 |"
+      },
+      {
+        "title": "1株あたりに基づく指標",
+        "markdown": "・単独\n\n| 決算期 | EPS | BPS | 配当 |\n| --- | --- | --- | --- |\n| 2021/06(単・1期) | 57.12 | 10,057.12 | 0 |\n| 2021/10(単・2期) | 44.46 | 10,101.58 | 0 |\n| 2022/10(単・3期) | 742.95 | 10,844.54 | 0 |\n| 2023/10(単・4期) | 17.32 | 125.77 | 0 |\n| 2024/10(単・5期) | -20.20 | 42.69 | 0 |\n| 2025/10(単・6期) | 11.51 | 54.19 | 0 |\n\n・連結\n\n| 決算期 | EPS | BPS | 配当 |\n| --- | --- | --- | --- |\n| 2024/10(連・5期) | 1.40 | 70.08 | -- |\n| 2025/10(連・6期) | 19.62 | 89.70 | -- |\n\n⇒\n[アイビスホールディングスの企業の概況・経営指標詳細](https://96ut.com/ipo/statement/2026034/0201010_honbun_jpcrp020400-srs-001_E42121-000_2025-10-31_01_2026-09-07_ixbrl.htm)\n⇒\n[アイビスホールディングスの株式公開情報、株主の状況詳細など](https://96ut.com/ipo/statement/2026034/0401010_honbun_jpcrp020400-srs-001_E42121-000_2025-10-31_01_2026-09-07_ixbrl.htm)\n⇒\n[アイビスホールディングスのロックアップ情報詳細](https://96ut.com/ipo/statement/2026034/0101010_honbun_jpcrp020400-srs-001_E42121-000_2025-10-31_01_2026-09-07_ixbrl.htm)"
+      },
+      {
+        "title": "アイビスホールディングスのストックオプション（新株予約権）の状況",
+        "markdown": "| 総会決議 | 対象株数（株） | 行使価格（円） | 行使期間 |\n| --- | --- | --- | --- |\n| 2025-01-30 | 100,000 | 650 | (自)2027-03-15～(至)2035-03-14 |\n| SO総計(1) | 100,000 | 上場時算入 | 0株 |\n\n※上場時に対象となるストックオプションの対象株数を青色で表示\n⇒\n[アイビスホールディングスのストックオプション情報詳細](https://96ut.com/ipo/statement/2026034/0204010_honbun_jpcrp020400-srs-001_E42121-000_2025-10-31_01_2026-09-07_ixbrl.htm)\n- 日程・概要\n- 割当\n- 業績・株主\n- スタンス・評価\n- 読者予想"
+      },
+      {
+        "title": "アイビスホールディングスの初値予想・評価・BBスタンス・初値結果関連",
+        "markdown": "| BB参加姿勢 | 評価：未評価(BB姿勢はBB期間開始直前に更新します) |\n| --- | --- |\n| 初値予想(BB開始時) | まだ更新していません |\n| 直前予想(上場前) | まだ更新していません |\n\n※評価はＳ～Ｄまで、初値予想はＢＢ開始時と上場前直前に行っています。\n・新規承認時の第一印象\nTOKYO PRO Market 及び Fukuoka PRO Marketからの鞍替え上場。同時に福証Qボードへも上場。\n・ブックビルディング姿勢に対するコメント"
+      },
+      {
+        "title": "アイビスホールディングスへのみんなの初値予想",
+        "markdown": "初値的中で最大2000円分のアマゾンギフト券をゲット！\n皆さんの初値予想の投稿をお待ちしています。\n\n⇒\n[アイビスホールディングスの初値予想を投稿する](https://kabu.96ut.com/yoso/index.php?ipo_id=2026034)\n現在の読者予想件数：2件\n読者予想サマリ 平均値：934円 | 中央値：567円 |\n補正値：934円\n\n最高：1,300円\n>>>>\n最低：567円\nJr様(2026/09/07) スタンス：(C) BB期間終了前\n予想値：567円(想定価格比：\n+67円\n)\n名証ネクストなので、10％前後の微増と思われます。\nムキムキムキムキ爺さん様(2026/09/07) スタンス：(D)\nメルアドなし\nBB期間終了前\n予想値：1,300円(想定価格比：\n+800円\n)\nムキムキしませんね(-。-)y-゜゜゜\n[⇒読者IPO初値予想一覧ページはこちら](https://96ut.com/ipo/yoso.php)\n※ 情報は更新・訂正されている可能性がありますので、詳細は企業ホームページ・目論見書などで確認してください。\n- 日程・概要\n- 割当\n- 業績・株主\n- スタンス・評価\n- 読者予想"
+      },
+      {
+        "title": "投稿ナビゲーション",
+        "markdown": "[レイヤード(634A)のIPO新規上場情報](https://kabu.96ut.com/article/ipo/2026033/)"
+      }
+    ]
+  },
+  "raw_tables": [
+    {
+      "section": "アイビスホールディングスのIPO(新規上場)日程関連",
+      "rows": [
+        [
+          {
+            "text": "仮条件決定日",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "2026/09/24 (木)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "ＢＢ期間",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "開始 : 2026/09/25 (金) ～ 終了 : 2026/10/01 (木)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "公募価格決定",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "2026/10/02 (金)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "購入申込期間",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "開始 : 2026/10/05 (月) ～ 終了 : 2026/10/08 (木)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "上場予定日",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "2026/10/13 (火)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ]
+      ],
+      "html": "<table class=\"kuro\">\n<tbody>\n<tr>\n<th class=\"th120\">仮条件決定日</th>\n<td class=\"td_l\">2026/09/24 (木)</td>\n</tr>\n<tr>\n<th class=\"th120\">ＢＢ期間</th>\n<td class=\"td_l\"><b>開始</b>: 2026/09/25 (金) ～ <b>終了</b>: 2026/10/01 (木)</td>\n</tr>\n<tr>\n<th class=\"th120\">公募価格決定</th>\n<td class=\"td_l\">2026/10/02 (金)</td>\n</tr>\n<tr>\n<th class=\"th120\">購入申込期間</th>\n<td class=\"td_l\"><b>開始</b>: 2026/10/05 (月) ～ <b>終了</b>: 2026/10/08 (木)</td>\n</tr>\n<tr>\n<th class=\"th120\">上場予定日</th>\n<td class=\"td_l\"><span style=\"color:red;\">2026/10/13 (火)</span></td>\n</tr>\n</tbody></table>",
+      "preceding_text": "アイビスホールディングスのIPO(新規上場)日程関連"
+    },
+    {
+      "section": "アイビスホールディングスのIPO(新規上場)基本情報",
+      "rows": [
+        [
+          {
+            "text": "公募株式数",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "総計：200,000株 （公募：200,000株 / 売出：0株）売出株式比率：0.0%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "O.A.分",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "30,000株 (O.A.=オーバーアロットメント)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "発行済株数",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "1,998,000株 （上場時、公募株数含む）",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "OR",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "11.5% (オファリング・レシオ、OA分含む計算)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "想定価格",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "500円",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "仮条件価格",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "未発表",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "公募価格",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "未決定",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "IPOの資金用途",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "自動記録ビジネス電話の導入。利用管理記録システム。支援記録作成AI。",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ]
+      ],
+      "html": "<table class=\"kuro\">\n<tbody>\n<tr>\n<th class=\"th120\">公募株式数</th>\n<td class=\"td_l\">総計：200,000株<br/>（公募：200,000株 / 売出：0株）売出株式比率：0.0%</td>\n</tr>\n<tr>\n<th class=\"th120\">O.A.分</th>\n<td class=\"td_l\">30,000株 (O.A.=オーバーアロットメント)\n</td>\n</tr>\n<tr>\n<th class=\"th120\">発行済株数</th>\n<td class=\"td_l\">1,998,000株 （上場時、公募株数含む）</td>\n</tr>\n<tr>\n<th class=\"th120\">OR</th>\n<td class=\"td_l\">11.5% (オファリング・レシオ、OA分含む計算)</td>\n</tr>\n<tr>\n<th class=\"th120\">想定価格</th>\n<td class=\"td_l\">500円</td>\n</tr>\n<tr>\n<th class=\"th120\">仮条件価格</th>\n<td class=\"td_l\">未発表</td>\n</tr>\n<tr>\n<th class=\"th120\">公募価格</th>\n<td class=\"td_l\">未決定</td>\n</tr>\n<tr>\n<th class=\"th120\">IPOの資金用途</th>\n<td class=\"td_l\">自動記録ビジネス電話の導入。利用管理記録システム。支援記録作成AI。</td>\n</tr>\n</tbody></table>",
+      "preceding_text": "アイビスホールディングスのIPO(新規上場)基本情報"
+    },
+    {
+      "section": "アイビスホールディングスのIPO価格マトリックス(価格・吸収金額・時価総額)",
+      "rows": [
+        [
+          {
+            "text": "想定価格",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "公開価格",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "初値",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "現在値",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "株価",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "500円",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "変化率",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "吸収金額",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "1.15億円",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "時価総額",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "9.99億円",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ]
+      ],
+      "html": "<table class=\"kuro\">\n<tbody>\n<tr>\n\n<th class=\"th120\">想定価格</th>\n<th class=\"th120\">公開価格</th>\n<th class=\"th120\">初値</th>\n<th class=\"th120\">現在値</th>\n</tr>\n<tr>\n<th class=\"th120\">株価</th>\n<td class=\"td_r\">500円</td>\n<td class=\"td_r\">-</td>\n<td class=\"td_r\">-</td>\n<td class=\"td_r\" nowrap=\"\">-</td>\n</tr>\n<tr>\n<th class=\"th120\">変化率</th>\n\n<td class=\"td_r\">-</td>\n<td class=\"td_r\">-</td>\n<td class=\"td_r\" nowrap=\"\">-</td>\n</tr>\n<tr>\n<th class=\"th120\">吸収金額</th>\n<td class=\"td_r\">1.15億円</td>\n<td class=\"td_r\">-</td>\n<td class=\"td_r\">-</td>\n\n</tr>\n<tr>\n<th class=\"th120\">時価総額</th>\n<td class=\"td_r\">9.99億円</td>\n<td class=\"td_r\">-</td>\n<td class=\"td_r\">-</td>\n<td class=\"td_r\">-</td>\n</tr>\n</tbody></table>",
+      "preceding_text": "アイビスホールディングスのIPO価格マトリックス(価格・吸収金額・時価総額)"
+    },
+    {
+      "section": "アイビスホールディングスの取り扱い証券会社と引受割合・シンジケート",
+      "rows": [
+        [
+          {
+            "text": "主幹事証券",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "フィリップ証券",
+            "links": [
+              {
+                "text": "フィリップ証券",
+                "url": "https://kabu.96ut.com/article/security/phillip/"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "幹事団と割当",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "※ 割当数が斜め文字時は推定計算数で掲載 しています。参考値として利用ください。後日、正確な数字（公開価格発表以降）に訂正されますので、ご了承ください。",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ]
+      ],
+      "html": "<table class=\"kuro\">\n<tbody>\n<tr>\n<th class=\"th120\">主幹事証券</th>\n<td class=\"td_l\">\n<div><strong><a href=\"https://kabu.96ut.com/article/security/phillip/\">フィリップ証券</a></strong></div>\n</td>\n</tr>\n<tr>\n<th class=\"th120\">幹事団と割当</th>\n<td class=\"td_l\">\n<table class=\"kuro\">\n<tr>\n<th class=\"th_c\">証券会社名</th>\n<th class=\"th_c\">割当数</th>\n<th class=\"th_c\">割当(%)</th>\n<th class=\"th_c\">抽選配分</th>\n</tr>\n<tr>\n<td class=\"td_l\"><a href=\"https://kabu.96ut.com/article/security/phillip/\">フィリップ証券</a></td>\n<td class=\"td_r\" nowrap=\"\">84,000株</td>\n<td class=\"td_r\" nowrap=\"\">42.00%</td>\n<td class=\"td_r\" nowrap=\"\">-</td>\n</tr>\n<tr>\n<td class=\"td_l\"><a href=\"https://kabu.96ut.com/al/sbi/\">SBI証券</a></td>\n<td class=\"td_r\">20,000株</td>\n<td class=\"td_r\">10.00%</td>\n<td class=\"td_r\" nowrap=\"\">90枚</td>\n</tr>\n<tr>\n<td class=\"td_l\"><a href=\"https://kabu.96ut.com/al/rakuten/\">楽天証券</a></td>\n<td class=\"td_r\">20,000株</td>\n<td class=\"td_r\">10.00%</td>\n<td class=\"td_r\" nowrap=\"\">200枚</td>\n</tr>\n<tr>\n<td class=\"td_l\"><a href=\"https://kabu.96ut.com/al/monex/\">マネックス証券</a></td>\n<td class=\"td_r\">20,000株</td>\n<td class=\"td_r\">10.00%</td>\n<td class=\"td_r\" nowrap=\"\">200枚</td>\n</tr>\n<tr>\n<td class=\"td_l\"><a href=\"https://kabu.96ut.com/al/matsui/\">松井証券</a></td>\n<td class=\"td_r\">16,000株</td>\n<td class=\"td_r\">8.00%</td>\n<td class=\"td_r\" nowrap=\"\">160枚</td>\n</tr>\n<tr>\n<td class=\"td_l\"><a href=\"https://kabu.96ut.com/article/security/toyo-sec/\">東洋証券 </a></td>\n<td class=\"td_r\">10,000株</td>\n<td class=\"td_r\">5.00%</td>\n<td class=\"td_r\" nowrap=\"\">10枚</td>\n</tr>\n<tr>\n<td class=\"td_l\"><a href=\"https://kabu.96ut.com/article/security/mito/\">水戸証券</a></td>\n<td class=\"td_r\">10,000株</td>\n<td class=\"td_r\">5.00%</td>\n<td class=\"td_r\" nowrap=\"\">-</td>\n</tr>\n<tr>\n<td class=\"td_l\"><a href=\"https://kabu.96ut.com/article/security/hs/\">Jトラストグローバル証券</a></td>\n<td class=\"td_r\">10,000株</td>\n<td class=\"td_r\">5.00%</td>\n<td class=\"td_r\" nowrap=\"\">16枚</td>\n</tr>\n<tr>\n<td class=\"td_l\"><a href=\"https://kabu.96ut.com/article/security/ando-sec/\">安藤証券</a></td>\n<td class=\"td_r\">10,000株</td>\n<td class=\"td_r\">5.00%</td>\n<td class=\"td_r\" nowrap=\"\">-</td>\n</tr>\n<tr>\n<td class=\"td_l\" colspan=\"4\">(その他：)</td>\n</tr>\n</table>\n<div>※<span style=\"color:blue;\">割当数が斜め文字時は推定計算数で掲載</span>しています。参考値として利用ください。後日、正確な数字（公開価格発表以降）に訂正されますので、ご了承ください。</div>\n</td>\n</tr>\n</tbody></table>",
+      "preceding_text": "アイビスホールディングスの取り扱い証券会社と引受割合・シンジケート"
+    },
+    {
+      "section": "アイビスホールディングスの取り扱い証券会社と引受割合・シンジケート",
+      "rows": [
+        [
+          {
+            "text": "証券会社名",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "割当数",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "割当(%)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "抽選配分",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "フィリップ証券",
+            "links": [
+              {
+                "text": "フィリップ証券",
+                "url": "https://kabu.96ut.com/article/security/phillip/"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "84,000株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "42.00%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "SBI証券",
+            "links": [
+              {
+                "text": "SBI証券",
+                "url": "https://kabu.96ut.com/al/sbi/"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "20,000株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "10.00%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "90枚",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "楽天証券",
+            "links": [
+              {
+                "text": "楽天証券",
+                "url": "https://kabu.96ut.com/al/rakuten/"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "20,000株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "10.00%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "200枚",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "マネックス証券",
+            "links": [
+              {
+                "text": "マネックス証券",
+                "url": "https://kabu.96ut.com/al/monex/"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "20,000株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "10.00%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "200枚",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "松井証券",
+            "links": [
+              {
+                "text": "松井証券",
+                "url": "https://kabu.96ut.com/al/matsui/"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "16,000株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "8.00%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "160枚",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "東洋証券",
+            "links": [
+              {
+                "text": "東洋証券",
+                "url": "https://kabu.96ut.com/article/security/toyo-sec/"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "10,000株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "5.00%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "10枚",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "水戸証券",
+            "links": [
+              {
+                "text": "水戸証券",
+                "url": "https://kabu.96ut.com/article/security/mito/"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "10,000株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "5.00%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "Jトラストグローバル証券",
+            "links": [
+              {
+                "text": "Jトラストグローバル証券",
+                "url": "https://kabu.96ut.com/article/security/hs/"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "10,000株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "5.00%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "16枚",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "安藤証券",
+            "links": [
+              {
+                "text": "安藤証券",
+                "url": "https://kabu.96ut.com/article/security/ando-sec/"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "10,000株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "5.00%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "(その他：)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "4"
+          }
+        ]
+      ],
+      "html": "<table class=\"kuro\">\n<tr>\n<th class=\"th_c\">証券会社名</th>\n<th class=\"th_c\">割当数</th>\n<th class=\"th_c\">割当(%)</th>\n<th class=\"th_c\">抽選配分</th>\n</tr>\n<tr>\n<td class=\"td_l\"><a href=\"https://kabu.96ut.com/article/security/phillip/\">フィリップ証券</a></td>\n<td class=\"td_r\" nowrap=\"\">84,000株</td>\n<td class=\"td_r\" nowrap=\"\">42.00%</td>\n<td class=\"td_r\" nowrap=\"\">-</td>\n</tr>\n<tr>\n<td class=\"td_l\"><a href=\"https://kabu.96ut.com/al/sbi/\">SBI証券</a></td>\n<td class=\"td_r\">20,000株</td>\n<td class=\"td_r\">10.00%</td>\n<td class=\"td_r\" nowrap=\"\">90枚</td>\n</tr>\n<tr>\n<td class=\"td_l\"><a href=\"https://kabu.96ut.com/al/rakuten/\">楽天証券</a></td>\n<td class=\"td_r\">20,000株</td>\n<td class=\"td_r\">10.00%</td>\n<td class=\"td_r\" nowrap=\"\">200枚</td>\n</tr>\n<tr>\n<td class=\"td_l\"><a href=\"https://kabu.96ut.com/al/monex/\">マネックス証券</a></td>\n<td class=\"td_r\">20,000株</td>\n<td class=\"td_r\">10.00%</td>\n<td class=\"td_r\" nowrap=\"\">200枚</td>\n</tr>\n<tr>\n<td class=\"td_l\"><a href=\"https://kabu.96ut.com/al/matsui/\">松井証券</a></td>\n<td class=\"td_r\">16,000株</td>\n<td class=\"td_r\">8.00%</td>\n<td class=\"td_r\" nowrap=\"\">160枚</td>\n</tr>\n<tr>\n<td class=\"td_l\"><a href=\"https://kabu.96ut.com/article/security/toyo-sec/\">東洋証券 </a></td>\n<td class=\"td_r\">10,000株</td>\n<td class=\"td_r\">5.00%</td>\n<td class=\"td_r\" nowrap=\"\">10枚</td>\n</tr>\n<tr>\n<td class=\"td_l\"><a href=\"https://kabu.96ut.com/article/security/mito/\">水戸証券</a></td>\n<td class=\"td_r\">10,000株</td>\n<td class=\"td_r\">5.00%</td>\n<td class=\"td_r\" nowrap=\"\">-</td>\n</tr>\n<tr>\n<td class=\"td_l\"><a href=\"https://kabu.96ut.com/article/security/hs/\">Jトラストグローバル証券</a></td>\n<td class=\"td_r\">10,000株</td>\n<td class=\"td_r\">5.00%</td>\n<td class=\"td_r\" nowrap=\"\">16枚</td>\n</tr>\n<tr>\n<td class=\"td_l\"><a href=\"https://kabu.96ut.com/article/security/ando-sec/\">安藤証券</a></td>\n<td class=\"td_r\">10,000株</td>\n<td class=\"td_r\">5.00%</td>\n<td class=\"td_r\" nowrap=\"\">-</td>\n</tr>\n<tr>\n<td class=\"td_l\" colspan=\"4\">(その他：)</td>\n</tr>\n</table>",
+      "preceding_text": "フィリップ証券"
+    },
+    {
+      "section": "企業データ",
+      "rows": [
+        [
+          {
+            "text": "会社名",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "アイビスホールディングス",
+            "links": [
+              {
+                "text": "アイビスホールディングス",
+                "url": "https://ibisholdings.co.jp/"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "所在地",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "東京都千代田区外神田二丁目 15 番 12 号",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "設立",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "2020年10月30日",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "従業員数",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "99人",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "監査法人",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "監査法人コスモス",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ]
+      ],
+      "html": "<table class=\"kuro\">\n<tbody><tr>\n<th class=\"th120\" nowrap=\"\">会社名</th>\n<td class=\"td_l\"><a href=\"https://ibisholdings.co.jp/\" target=\"_blank\">アイビスホールディングス</a></td>\n</tr>\n<tr>\n<th class=\"th120\" nowrap=\"\">所在地</th>\n<td class=\"td_l\">東京都千代田区外神田二丁目 15 番 12 号</td>\n</tr>\n<tr>\n<th class=\"th120\" nowrap=\"\">設立</th>\n<td class=\"td_l\">2020年10月30日</td>\n</tr>\n<tr>\n<th class=\"th120\" nowrap=\"\">従業員数</th>\n<td class=\"td_l\">99人</td>\n</tr>\n<tr>\n<th class=\"th120\" nowrap=\"\">監査法人</th>\n<td class=\"td_l\">監査法人コスモス</td>\n</tr>\n</tbody></table>",
+      "preceding_text": "企業データ"
+    },
+    {
+      "section": "アイビスホールディングスの概況（直近の経営指標、業績予想）",
+      "rows": [
+        [
+          {
+            "text": "決算期",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "売上 変化率",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "経常利益 変化率",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "当期利益 変化率",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "純資産 総資産",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "2021/06 (単・1期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "13,750",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "1,265",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "513",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "90,413 106,539",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "2021/10 (単・2期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "18,700 36.0%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-9,508 -851.6%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "399 -22.2%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "90,813 135,796",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "2022/10 (単・3期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "77,000 311.8%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "8,397 -188.3%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "6,679 1,573.9%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "97,492 112,192",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "2023/10 (単・4期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "114,630 48.9%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "20,904 148.9%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "15,574 133.2%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "113,066 141,595",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "2024/10 (単・5期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "154,390 34.7%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "46,762 123.7%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-36,319 -333.2%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "76,747 224,820",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "2025/10 (単・6期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "177,175 14.8%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "37,254 -20.3%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "20,684 -157.0%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "97,431 330,637",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ]
+      ],
+      "html": "<table class=\"kuro\">\n<thead>\n<tr>\n<th class=\"th120\">決算期</th>\n<th class=\"th120\">売上<br/>変化率</th>\n<th class=\"th120\">経常利益<br/>変化率</th>\n<th class=\"th120\">当期利益<br/>変化率</th>\n<th class=\"th120\">純資産<br/>\n総資産</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"td_r\">2021/06<br/>\n(単・1期)</td>\n<td class=\"td_r\">13,750</td>\n<td class=\"td_r\">1,265</td>\n<td class=\"td_r\">513</td>\n<td class=\"td_r\">90,413<br/>\n106,539</td>\n</tr>\n<tr>\n<td class=\"td_r\">2021/10<br/>\n(単・2期)</td>\n<td class=\"td_r\">18,700<br/>\n36.0%</td>\n<td class=\"td_r\">-9,508<br/>\n-851.6%</td>\n<td class=\"td_r\">399<br/>\n-22.2%</td>\n<td class=\"td_r\">90,813<br/>\n135,796</td>\n</tr>\n<tr>\n<td class=\"td_r\">2022/10<br/>\n(単・3期)</td>\n<td class=\"td_r\">77,000<br/>\n311.8%</td>\n<td class=\"td_r\">8,397<br/>\n-188.3%</td>\n<td class=\"td_r\">6,679<br/>\n1,573.9%</td>\n<td class=\"td_r\">97,492<br/>\n112,192</td>\n</tr>\n<tr>\n<td class=\"td_r\">2023/10<br/>\n(単・4期)</td>\n<td class=\"td_r\">114,630<br/>\n48.9%</td>\n<td class=\"td_r\">20,904<br/>\n148.9%</td>\n<td class=\"td_r\">15,574<br/>\n133.2%</td>\n<td class=\"td_r\">113,066<br/>\n141,595</td>\n</tr>\n<tr>\n<td class=\"td_r\">2024/10<br/>\n(単・5期)</td>\n<td class=\"td_r\">154,390<br/>\n34.7%</td>\n<td class=\"td_r\">46,762<br/>\n123.7%</td>\n<td class=\"td_r\">-36,319<br/>\n-333.2%</td>\n<td class=\"td_r\">76,747<br/>\n224,820</td>\n</tr>\n<tr>\n<td class=\"td_r\">2025/10<br/>\n(単・6期)</td>\n<td class=\"td_r\">177,175<br/>\n14.8%</td>\n<td class=\"td_r\">37,254<br/>\n-20.3%</td>\n<td class=\"td_r\">20,684<br/>\n-157.0%</td>\n<td class=\"td_r\">97,431<br/>\n330,637</td>\n</tr>\n</tbody>\n</table>",
+      "preceding_text": ""
+    },
+    {
+      "section": "アイビスホールディングスの概況（直近の経営指標、業績予想）",
+      "rows": [
+        [
+          {
+            "text": "決算期",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "売上",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "経常利益",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "当期利益",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "純資産 総資産",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "2024/10 (連・5期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "894,558",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "25,576",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "2,511",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "125,993 571,057",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "2025/10 (連・6期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "1,094,078 22.3%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "45,761 78.9%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "35,284 1,305.2%",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "161,277 736,830",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ]
+      ],
+      "html": "<table class=\"kuro\">\n<thead>\n<tr>\n<th class=\"th120\">決算期</th>\n<th class=\"th120\">売上</th>\n<th class=\"th120\">経常利益</th>\n<th class=\"th120\">当期利益</th>\n<th class=\"th120\">純資産<br/>\n総資産</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"td_r\">2024/10<br/>\n(連・5期)</td>\n<td class=\"td_r\">894,558</td>\n<td class=\"td_r\">25,576</td>\n<td class=\"td_r\">2,511</td>\n<td class=\"td_r\">125,993<br/>\n571,057</td>\n</tr>\n<tr>\n<td class=\"td_r\">2025/10<br/>\n(連・6期)</td>\n<td class=\"td_r\">1,094,078<br/>\n22.3%</td>\n<td class=\"td_r\">45,761<br/>\n78.9%</td>\n<td class=\"td_r\">35,284<br/>\n1,305.2%</td>\n<td class=\"td_r\">161,277<br/>\n736,830</td>\n</tr>\n</tbody>\n</table>",
+      "preceding_text": ""
+    },
+    {
+      "section": "1株あたりに基づく指標",
+      "rows": [
+        [
+          {
+            "text": "決算期",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "EPS",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "BPS",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "配当",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "2021/06(単・1期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "57.12",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "10,057.12",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "0",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "2021/10(単・2期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "44.46",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "10,101.58",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "0",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "2022/10(単・3期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "742.95",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "10,844.54",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "0",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "2023/10(単・4期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "17.32",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "125.77",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "0",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "2024/10(単・5期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-20.20",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "42.69",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "0",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "2025/10(単・6期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "11.51",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "54.19",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "0",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ]
+      ],
+      "html": "<table class=\"kuro\">\n<thead>\n<tr>\n<th class=\"th120\">決算期</th>\n<th class=\"th120\">EPS</th>\n<th class=\"th120\">BPS</th>\n<th class=\"th120\">配当</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"td_r\">2021/06(単・1期)</td>\n<td class=\"td_r\">57.12</td>\n<td class=\"td_r\">10,057.12</td>\n<td class=\"td_r\">0</td>\n</tr>\n<tr>\n<td class=\"td_r\">2021/10(単・2期)</td>\n<td class=\"td_r\">44.46</td>\n<td class=\"td_r\">10,101.58</td>\n<td class=\"td_r\">0</td>\n</tr>\n<tr>\n<td class=\"td_r\">2022/10(単・3期)</td>\n<td class=\"td_r\">742.95</td>\n<td class=\"td_r\">10,844.54</td>\n<td class=\"td_r\">0</td>\n</tr>\n<tr>\n<td class=\"td_r\">2023/10(単・4期)</td>\n<td class=\"td_r\">17.32</td>\n<td class=\"td_r\">125.77</td>\n<td class=\"td_r\">0</td>\n</tr>\n<tr>\n<td class=\"td_r\">2024/10(単・5期)</td>\n<td class=\"td_r\">-20.20</td>\n<td class=\"td_r\">42.69</td>\n<td class=\"td_r\">0</td>\n</tr>\n<tr>\n<td class=\"td_r\">2025/10(単・6期)</td>\n<td class=\"td_r\">11.51</td>\n<td class=\"td_r\">54.19</td>\n<td class=\"td_r\">0</td>\n</tr>\n</tbody>\n</table>",
+      "preceding_text": "1株あたりに基づく指標"
+    },
+    {
+      "section": "1株あたりに基づく指標",
+      "rows": [
+        [
+          {
+            "text": "決算期",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "EPS",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "BPS",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "配当",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "2024/10(連・5期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "1.40",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "70.08",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "--",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "2025/10(連・6期)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "19.62",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "89.70",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "--",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ]
+      ],
+      "html": "<table class=\"kuro\">\n<thead>\n<tr>\n<th class=\"th120\">決算期</th>\n<th class=\"th120\">EPS</th>\n<th class=\"th120\">BPS</th>\n<th class=\"th120\">配当</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"td_r\">2024/10(連・5期)</td>\n<td class=\"td_r\">1.40</td>\n<td class=\"td_r\">70.08</td>\n<td class=\"td_r\">--</td>\n</tr>\n<tr>\n<td class=\"td_r\">2025/10(連・6期)</td>\n<td class=\"td_r\">19.62</td>\n<td class=\"td_r\">89.70</td>\n<td class=\"td_r\">--</td>\n</tr>\n</tbody>\n</table>",
+      "preceding_text": "1株あたりに基づく指標"
+    },
+    {
+      "section": "アイビスホールディングスのストックオプション（新株予約権）の状況",
+      "rows": [
+        [
+          {
+            "text": "総会決議",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "対象株数（株）",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "行使価格（円）",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "行使期間",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "2025-01-30",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "100,000",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "650",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "(自)2027-03-15～(至)2035-03-14",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "SO総計(1)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "100,000",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "上場時算入",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "0株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ]
+      ],
+      "html": "<table class=\"kuro\">\n<thead>\n<tr>\n<th class=\"th120\">総会決議</th>\n<th class=\"th120\">対象株数（株）</th>\n<th class=\"th120\">行使価格（円）</th>\n<th class=\"th120\">行使期間</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"td_r\">2025-01-30</td>\n<td class=\"td_r\">100,000</td>\n<td class=\"td_r\">650</td>\n<td class=\"td_c\" style=\"white-space:nowrap;\">(自)2027-03-15～(至)2035-03-14</td>\n</tr>\n<tr>\n<th class=\"td_r\">SO総計(1)</th>\n<td class=\"td_r\">100,000</td>\n<th class=\"td_r\">上場時算入</th>\n<td class=\"td_r\">0株</td>\n</tr>\n</tbody>\n</table>",
+      "preceding_text": "アイビスホールディングスのストックオプション（新株予約権）の状況"
+    },
+    {
+      "section": "アイビスホールディングスの初値予想・評価・BBスタンス・初値結果関連",
+      "rows": [
+        [
+          {
+            "text": "BB参加姿勢",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "評価：未評価(BB姿勢はBB期間開始直前に更新します)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "初値予想 (BB開始時)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "まだ更新していません",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "直前予想 (上場前)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "まだ更新していません",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ]
+      ],
+      "html": "<table class=\"kuro\">\n<tbody>\n<tr>\n<th class=\"th120\">BB参加姿勢</th>\n<td class=\"td_l\">評価：未評価(BB姿勢はBB期間開始直前に更新します)</td>\n</tr>\n<tr>\n<th class=\"th120\">初値予想<br/>(BB開始時)</th>\n<td class=\"td_l\">まだ更新していません</td>\n</tr>\n<tr>\n<th class=\"th120\">直前予想<br/>(上場前)</th>\n<td class=\"td_l\">まだ更新していません</td>\n</tr>\n</tbody></table>",
+      "preceding_text": "アイビスホールディングスの初値予想・評価・BBスタンス・初値結果関連"
+    }
+  ],
+  "warnings": [
+    "Dates, financial units and compound cells retain source text; no unverified normalization is applied."
+  ]
+}

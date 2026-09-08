@@ -1,0 +1,3333 @@
+{
+  "schema_version": 1,
+  "code": "627A",
+  "source": "ipokiso",
+  "detail_url": "https://www.ipokiso.com/company/2026/akippa.html",
+  "scraped_at": "2026-09-07T14:02:37.305711+00:00",
+  "company": {
+    "name": {
+      "raw": "akippa[アキッパ]（627A）　【東証スタンダード】"
+    },
+    "website": "https://akippa.co.jp/",
+    "established": {
+      "raw": "2009年2月（18年目）"
+    },
+    "lead_underwriter": "SBI証券"
+  },
+  "business": {
+    "sections": [
+      {
+        "title": "管理人からのコメント",
+        "markdown": "akippa[アキッパ]（627A）は、「駐車場マーケットプレイス『アキッパ』の運営」を主な事業としています。『アキッパ』は、空いている月極駐車場や個人宅の車庫、空き地などを、ネットで予約して利用できる駐車場シェアリングサービスです。アプリから近くの駐車場を探して事前に予約できるため、現地で駐車場を探す手間が省けます。一方で、駐車場を貸し出すのもかんたんです。初期費用が無料で、事前決済制になっているため、個人でも安心してはじめられます。 2025年12月時点でユーザー数は累計500万人以上、掲載駐車場数は5万5,000件以上と、多くのユーザーや駐車場オーナーに利用されています。\n\n直近の業績を見ると、売上は順調に伸びています。一時は赤字続きだった利益は、2023年12月期以降黒字を維持しています。さらに、会社発表の業績予想によると、2026年12月期は売上高が前年比+12.3％の約43億円、経常利益が前年比+67％の約3.4億円と、増収増益の予想が出ています。今期も順調に業績を伸ばしているようです。 今後の成長性に関しては、全国には7,264万台以上の駐車場があり、この大きな市場でさらに成長するため、M&Aやサービスの向上に力を入れていくと発表しています。\n\n公開株数が多く、主要株主のロックアップに解除条件が付いている点が気がかりです。しかし、想定価格が低いため、通常より買いは入りやすい状況と言えます。同日に[ベルテックス（623A）](https://www.ipokiso.com/company/2026/vertex-c.html)、[テクノクラフト（622A）](https://www.ipokiso.com/company/2026/tecraft.html)、[かがやきホールディングス（624A）](https://www.ipokiso.com/company/2026/kagayaki-grp.html)が上場予定となっているので、やや買いが集まりにくくなっています。総合的に判断して、初値は小幅な上昇にとどまると予想します。\n\nネット証券では、[SBI証券（主幹事）](https://www.ipokiso.com/security/sbi.html)、[SMBC日興証券（副幹事）](https://www.ipokiso.com/security/nikko.html)、[岩井コスモ証券](https://www.ipokiso.com/security/iwaicosmo.html)、[マネックス証券](https://www.ipokiso.com/security/monex.html)、[楽天証券](https://www.ipokiso.com/security/rakuten.html)、[SBIネオトレード証券](https://www.ipokiso.com/security/livestar.html)、[DMM 株](https://www.ipokiso.com/security/dmmkabu.html)、[松井証券](https://www.ipokiso.com/security/matsui.html)から申し込み可能となっています。"
+      }
+    ]
+  },
+  "schedule": {
+    "bookbuilding_period": {
+      "raw": "9月3日(木)～9月9日(水)"
+    },
+    "lottery_announcement": {
+      "raw": "9月10日(木)"
+    },
+    "purchase_period": {
+      "raw": "9月11日(金)～9月16日(水)"
+    },
+    "listing_date": {
+      "raw": "2026年9月18日(金)"
+    }
+  },
+  "offering": {
+    "new_shares": {
+      "value": 378000,
+      "unit": "shares",
+      "raw": "378,000株",
+      "estimated": null
+    },
+    "secondary_shares_including_oa": {
+      "value": 2164700,
+      "unit": "shares",
+      "raw": "2,164,700株",
+      "estimated": null
+    },
+    "total_offered_shares": {
+      "value": 2542700,
+      "unit": "shares",
+      "raw": "2,542,700株",
+      "estimated": null
+    }
+  },
+  "pricing": {
+    "expected_price": {
+      "value": 540,
+      "unit": "JPY",
+      "raw": "540円",
+      "estimated": null
+    },
+    "provisional_range": {
+      "raw": "540円 ～ 570円",
+      "low": 540,
+      "high": 570,
+      "unit": "JPY"
+    },
+    "offer_price": {
+      "value": null,
+      "unit": "JPY",
+      "raw": "未発表",
+      "estimated": null
+    },
+    "initial_price": {
+      "value": null,
+      "unit": "JPY",
+      "raw": "-",
+      "estimated": null
+    }
+  },
+  "valuation": {},
+  "underwriters": [
+    {
+      "section": "幹事証券リスト（管理人独自予想あり）",
+      "headers": [
+        "",
+        "証券会社名",
+        "割当率",
+        "割当株数",
+        "当選本数",
+        "完全抽選本数 （予想）"
+      ],
+      "records": [
+        {
+          "role": {
+            "text": "主幹事",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "証券会社名": {
+            "text": "SBI証券",
+            "links": [
+              {
+                "text": "SBI証券",
+                "url": "https://www.ipokiso.com/security/sbi.html"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "割当率": {
+            "text": "-％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "%",
+            "raw": "-％",
+            "estimated": null
+          },
+          "割当株数": {
+            "text": "-株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "shares",
+            "raw": "-株",
+            "estimated": null
+          },
+          "当選本数": {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "lots",
+            "raw": "-本",
+            "estimated": null
+          },
+          "完全抽選本数 （予想）": {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "lots",
+            "raw": "-本",
+            "estimated": true
+          }
+        },
+        {
+          "role": {
+            "text": "幹事",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "8",
+            "colspan": "1"
+          },
+          "証券会社名": {
+            "text": "SMBC日興証券",
+            "links": [
+              {
+                "text": "SMBC日興証券",
+                "url": "https://www.ipokiso.com/security/nikko.html"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "割当率": {
+            "text": "-％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "%",
+            "raw": "-％",
+            "estimated": null
+          },
+          "割当株数": {
+            "text": "-株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "shares",
+            "raw": "-株",
+            "estimated": null
+          },
+          "当選本数": {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "lots",
+            "raw": "-本",
+            "estimated": null
+          },
+          "完全抽選本数 （予想）": {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "lots",
+            "raw": "-本",
+            "estimated": true
+          }
+        },
+        {
+          "role": {
+            "text": "",
+            "italic": false
+          },
+          "証券会社名": {
+            "text": "みずほ証券",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "割当率": {
+            "text": "-％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "%",
+            "raw": "-％",
+            "estimated": null
+          },
+          "割当株数": {
+            "text": "-株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "shares",
+            "raw": "-株",
+            "estimated": null
+          },
+          "当選本数": {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "lots",
+            "raw": "-本",
+            "estimated": null
+          },
+          "完全抽選本数 （予想）": {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "lots",
+            "raw": "-本",
+            "estimated": true
+          }
+        },
+        {
+          "role": {
+            "text": "",
+            "italic": false
+          },
+          "証券会社名": {
+            "text": "岡三証券",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "割当率": {
+            "text": "-％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "%",
+            "raw": "-％",
+            "estimated": null
+          },
+          "割当株数": {
+            "text": "-株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "shares",
+            "raw": "-株",
+            "estimated": null
+          },
+          "当選本数": {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "lots",
+            "raw": "-本",
+            "estimated": null
+          },
+          "完全抽選本数 （予想）": {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "lots",
+            "raw": "-本",
+            "estimated": true
+          }
+        },
+        {
+          "role": {
+            "text": "",
+            "italic": false
+          },
+          "証券会社名": {
+            "text": "東海東京証券",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "割当率": {
+            "text": "-％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "%",
+            "raw": "-％",
+            "estimated": null
+          },
+          "割当株数": {
+            "text": "-株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "shares",
+            "raw": "-株",
+            "estimated": null
+          },
+          "当選本数": {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "lots",
+            "raw": "-本",
+            "estimated": null
+          },
+          "完全抽選本数 （予想）": {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "lots",
+            "raw": "-本",
+            "estimated": true
+          }
+        },
+        {
+          "role": {
+            "text": "",
+            "italic": false
+          },
+          "証券会社名": {
+            "text": "岩井コスモ証券",
+            "links": [
+              {
+                "text": "岩井コスモ証券",
+                "url": "https://www.ipokiso.com/security/iwaicosmo.html"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "割当率": {
+            "text": "-％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "%",
+            "raw": "-％",
+            "estimated": null
+          },
+          "割当株数": {
+            "text": "-株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "shares",
+            "raw": "-株",
+            "estimated": null
+          },
+          "当選本数": {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "lots",
+            "raw": "-本",
+            "estimated": null
+          },
+          "完全抽選本数 （予想）": {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "lots",
+            "raw": "-本",
+            "estimated": true
+          }
+        },
+        {
+          "role": {
+            "text": "",
+            "italic": false
+          },
+          "証券会社名": {
+            "text": "マネックス証券",
+            "links": [
+              {
+                "text": "マネックス証券",
+                "url": "https://www.ipokiso.com/security/monex.html"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "割当率": {
+            "text": "-％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "%",
+            "raw": "-％",
+            "estimated": null
+          },
+          "割当株数": {
+            "text": "-株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "shares",
+            "raw": "-株",
+            "estimated": null
+          },
+          "当選本数": {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "lots",
+            "raw": "-本",
+            "estimated": null
+          },
+          "完全抽選本数 （予想）": {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "lots",
+            "raw": "-本",
+            "estimated": true
+          }
+        },
+        {
+          "role": {
+            "text": "",
+            "italic": false
+          },
+          "証券会社名": {
+            "text": "むさし証券",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "割当率": {
+            "text": "-％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "%",
+            "raw": "-％",
+            "estimated": null
+          },
+          "割当株数": {
+            "text": "-株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "shares",
+            "raw": "-株",
+            "estimated": null
+          },
+          "当選本数": {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "lots",
+            "raw": "-本",
+            "estimated": null
+          },
+          "完全抽選本数 （予想）": {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "lots",
+            "raw": "-本",
+            "estimated": true
+          }
+        },
+        {
+          "role": {
+            "text": "",
+            "italic": false
+          },
+          "証券会社名": {
+            "text": "楽天証券",
+            "links": [
+              {
+                "text": "楽天証券",
+                "url": "https://www.ipokiso.com/security/rakuten.html"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "割当率": {
+            "text": "-％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "%",
+            "raw": "-％",
+            "estimated": null
+          },
+          "割当株数": {
+            "text": "-株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "shares",
+            "raw": "-株",
+            "estimated": null
+          },
+          "当選本数": {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "lots",
+            "raw": "-本",
+            "estimated": null
+          },
+          "完全抽選本数 （予想）": {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1",
+            "value": null,
+            "unit": "lots",
+            "raw": "-本",
+            "estimated": true
+          }
+        }
+      ],
+      "context": "幹事証券リスト（管理人独自予想あり）",
+      "raw_table_index": 5
+    }
+  ],
+  "subscription_brokers": [
+    {
+      "text": "SMBC日興証券（副幹事）",
+      "url": "https://www.ipokiso.com/security/nikko.html"
+    },
+    {
+      "text": "岩井コスモ証券",
+      "url": "https://www.ipokiso.com/security/iwaicosmo.html"
+    },
+    {
+      "text": "マネックス証券",
+      "url": "https://www.ipokiso.com/security/monex.html"
+    },
+    {
+      "text": "楽天証券",
+      "url": "https://www.ipokiso.com/security/rakuten.html"
+    },
+    {
+      "text": "SBIネオトレード証券",
+      "url": "https://www.ipokiso.com/security/livestar.html"
+    },
+    {
+      "text": "DMM 株",
+      "url": "https://www.ipokiso.com/security/dmmkabu.html"
+    },
+    {
+      "text": "松井証券",
+      "url": "https://www.ipokiso.com/security/matsui.html"
+    }
+  ],
+  "financials": [
+    {
+      "section": "企業業績のデータ（5年分）",
+      "headers": [
+        "",
+        "2021年 12月",
+        "2022年 12月",
+        "2023年 12月",
+        "2024年 12月",
+        "2025年 12月"
+      ],
+      "records": [
+        {
+          "role": {
+            "text": "売上高（百万円）",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2021年 12月": {
+            "text": "1,480",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2022年 12月": {
+            "text": "2,082",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2023年 12月": {
+            "text": "2,619",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2024年 12月": {
+            "text": "3,191",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2025年 12月": {
+            "text": "3,828",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "role": {
+            "text": "経常利益（百万円）",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2021年 12月": {
+            "text": "△311",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2022年 12月": {
+            "text": "△74",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2023年 12月": {
+            "text": "50",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2024年 12月": {
+            "text": "31",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2025年 12月": {
+            "text": "204",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "role": {
+            "text": "当期純利益（百万円）",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2021年 12月": {
+            "text": "△314",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2022年 12月": {
+            "text": "△77",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2023年 12月": {
+            "text": "86",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2024年 12月": {
+            "text": "41",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2025年 12月": {
+            "text": "223",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "role": {
+            "text": "純資産額（百万円）",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2021年 12月": {
+            "text": "253",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2022年 12月": {
+            "text": "175",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2023年 12月": {
+            "text": "261",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2024年 12月": {
+            "text": "301",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2025年 12月": {
+            "text": "525",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "role": {
+            "text": "1株あたりの純資産額（円）",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2021年 12月": {
+            "text": "△1,219",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2022年 12月": {
+            "text": "30",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2023年 12月": {
+            "text": "△405",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2024年 12月": {
+            "text": "△395",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2025年 12月": {
+            "text": "△341",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "role": {
+            "text": "1株あたりの純利益（円）",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2021年 12月": {
+            "text": "△229",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2022年 12月": {
+            "text": "△18",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2023年 12月": {
+            "text": "19",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2024年 12月": {
+            "text": "10",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2025年 12月": {
+            "text": "54",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "role": {
+            "text": "自己資本比率（％）",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2021年 12月": {
+            "text": "31.3",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2022年 12月": {
+            "text": "23.8",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2023年 12月": {
+            "text": "33.5",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2024年 12月": {
+            "text": "37.5",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2025年 12月": {
+            "text": "49.9",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "role": {
+            "text": "自己資本利益率（％）",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2021年 12月": {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2022年 12月": {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2023年 12月": {
+            "text": "39.5",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2024年 12月": {
+            "text": "14.4",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "2025年 12月": {
+            "text": "54.1",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        }
+      ],
+      "context": "⇒akippaの有価証券届出書",
+      "raw_table_index": 7
+    }
+  ],
+  "shareholders": [
+    {
+      "section": "株主構成、ロックアップなど",
+      "headers": [
+        "株主名",
+        "比率",
+        "ロック アップ"
+      ],
+      "records": [
+        {
+          "株主名": {
+            "text": "SOMPOホールディングス（株）",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "比率": {
+            "text": "29.12％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "ロック アップ": {
+            "text": "360日間",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "株主名": {
+            "text": "金谷 元気 （社長）",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "比率": {
+            "text": "16.91％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "ロック アップ": {
+            "text": "360日間",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "株主名": {
+            "text": "（株）ディー・エヌ・エー",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "比率": {
+            "text": "14.47％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "ロック アップ": {
+            "text": "180日間",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "株主名": {
+            "text": "住友商事（株）",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "比率": {
+            "text": "4.87％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "ロック アップ": {
+            "text": "180日間",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "株主名": {
+            "text": "グロービス５号ファンド投資事業有限責任組合",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "比率": {
+            "text": "4.27％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "ロック アップ": {
+            "text": "180日間 1.5倍",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "株主名": {
+            "text": "従業員",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "比率": {
+            "text": "2.64％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "ロック アップ": {
+            "text": "継続保有",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "株主名": {
+            "text": "（株）トリドールホールディングス",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "比率": {
+            "text": "2.45％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "ロック アップ": {
+            "text": "180日間",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "株主名": {
+            "text": "日本駐車場開発（株）",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "比率": {
+            "text": "2.33％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "ロック アップ": {
+            "text": "180日間",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "株主名": {
+            "text": "小林 寛之",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "比率": {
+            "text": "2.19％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "ロック アップ": {
+            "text": "継続保有",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        {
+          "株主名": {
+            "text": "Globis Fund V,L.P.",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "比率": {
+            "text": "1.82％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          "ロック アップ": {
+            "text": "180日間 1.5倍",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        }
+      ],
+      "context": "株主構成、ロックアップなど",
+      "raw_table_index": 6
+    }
+  ],
+  "stock_options": [],
+  "analysis": [
+    {
+      "title": "IPO価格情報・初値予想（独自）",
+      "markdown": "| 想定価格 | 540円 |\n| --- | --- |\n| 仮条件 | 540円 ～ 570円 |\n| 公募価格 | 未発表 |\n| 初値予想（独自） | 570円 ～ 870円（9月1日時点） |\n| 初値 | - |\n\n・想定価格540円に対して、PER15.15倍、PBR4.9倍、配当利回り-％ ※直近期末の決算数値をもとに、IPOによる調達資金と新規発行株数を考慮して計算しています。 1株あたり純利益35.6円、1株あたり純資産110.8円、1株あたり配当金-円 ※累積赤字の影響で、PERが低めに算出されています。 ・仮条件に伴い、初値予想を「540円 ～ 840円（8月18日時点）」から「570円 ～ 870円（9月1日時点）」に変更しました。"
+    },
+    {
+      "title": "管理人からのコメント",
+      "markdown": "akippa[アキッパ]（627A）は、「駐車場マーケットプレイス『アキッパ』の運営」を主な事業としています。『アキッパ』は、空いている月極駐車場や個人宅の車庫、空き地などを、ネットで予約して利用できる駐車場シェアリングサービスです。アプリから近くの駐車場を探して事前に予約できるため、現地で駐車場を探す手間が省けます。一方で、駐車場を貸し出すのもかんたんです。初期費用が無料で、事前決済制になっているため、個人でも安心してはじめられます。 2025年12月時点でユーザー数は累計500万人以上、掲載駐車場数は5万5,000件以上と、多くのユーザーや駐車場オーナーに利用されています。\n\n直近の業績を見ると、売上は順調に伸びています。一時は赤字続きだった利益は、2023年12月期以降黒字を維持しています。さらに、会社発表の業績予想によると、2026年12月期は売上高が前年比+12.3％の約43億円、経常利益が前年比+67％の約3.4億円と、増収増益の予想が出ています。今期も順調に業績を伸ばしているようです。 今後の成長性に関しては、全国には7,264万台以上の駐車場があり、この大きな市場でさらに成長するため、M&Aやサービスの向上に力を入れていくと発表しています。\n\n公開株数が多く、主要株主のロックアップに解除条件が付いている点が気がかりです。しかし、想定価格が低いため、通常より買いは入りやすい状況と言えます。同日に[ベルテックス（623A）](https://www.ipokiso.com/company/2026/vertex-c.html)、[テクノクラフト（622A）](https://www.ipokiso.com/company/2026/tecraft.html)、[かがやきホールディングス（624A）](https://www.ipokiso.com/company/2026/kagayaki-grp.html)が上場予定となっているので、やや買いが集まりにくくなっています。総合的に判断して、初値は小幅な上昇にとどまると予想します。\n\nネット証券では、[SBI証券（主幹事）](https://www.ipokiso.com/security/sbi.html)、[SMBC日興証券（副幹事）](https://www.ipokiso.com/security/nikko.html)、[岩井コスモ証券](https://www.ipokiso.com/security/iwaicosmo.html)、[マネックス証券](https://www.ipokiso.com/security/monex.html)、[楽天証券](https://www.ipokiso.com/security/rakuten.html)、[SBIネオトレード証券](https://www.ipokiso.com/security/livestar.html)、[DMM 株](https://www.ipokiso.com/security/dmmkabu.html)、[松井証券](https://www.ipokiso.com/security/matsui.html)から申し込み可能となっています。"
+    }
+  ],
+  "reader_forecasts": [],
+  "documents": [
+    {
+      "title": "⇒akippaの有価証券届出書",
+      "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YXBM.pdf",
+      "local_path": null
+    }
+  ],
+  "content": {
+    "markdown": "# akippa[アキッパ]（627A）\n\nakippa[アキッパ]の事業内容は「駐車場マーケットプレイス『アキッパ』の運営」で、東証スタンダード上場の小型案件（想定時価総額33.8億円、吸収金額13.7億円）です。統計的に初値が上昇しやすい「[想定価格が1,000円以下](https://www.ipokiso.com/data/under_1000.html)」、「[SBI証券が主幹事](https://www.ipokiso.com/data/tl_sbi.html)」の案件ですが、総合的に判断して、初値は小幅な上昇にとどまると予想します。\n\n[想定価格が1,000円以下のIPOの結果をまとめました！](https://www.ipokiso.com/data/under_1000.html)\n[SBI証券が主幹事のIPOをまとめました！](https://www.ipokiso.com/data/tl_sbi.html)\n[公開株数の“多い”過去のIPOを分析しました！](https://www.ipokiso.com/data/stocks_many.html)\n\n| 成長性 | 割安性 |\n| --- | --- |\n|  |  |\n| 話題性 | 総合評価 |\n|  |  |\n\n## 基本情報\n\n| 会社名 | akippa[アキッパ]（627A） 【東証スタンダード】 |\n| --- | --- |\n| 会社URL | [https://akippa.co.jp/](https://akippa.co.jp/) |\n| 会社設立 | 2009年2月（18年目） |\n| 主幹事証券 | [SBI証券](https://www.ipokiso.com/security/sbi.html) |\n| その他 狙い目証券会社 | [SMBC日興証券（副幹事）](https://www.ipokiso.com/security/nikko.html)、[岩井コスモ証券](https://www.ipokiso.com/security/iwaicosmo.html)、[マネックス証券](https://www.ipokiso.com/security/monex.html)、[楽天証券](https://www.ipokiso.com/security/rakuten.html)、[SBIネオトレード証券](https://www.ipokiso.com/security/livestar.html)、[DMM 株](https://www.ipokiso.com/security/dmmkabu.html)、[松井証券](https://www.ipokiso.com/security/matsui.html) |\n\n## IPO価格情報・初値予想（独自）\n\n| 想定価格 | 540円 |\n| --- | --- |\n| 仮条件 | 540円 ～ 570円 |\n| 公募価格 | 未発表 |\n| 初値予想（独自） | 570円 ～ 870円（9月1日時点） |\n| 初値 | - |\n\n・想定価格540円に対して、PER15.15倍、PBR4.9倍、配当利回り-％ ※直近期末の決算数値をもとに、IPOによる調達資金と新規発行株数を考慮して計算しています。 1株あたり純利益35.6円、1株あたり純資産110.8円、1株あたり配当金-円 ※累積赤字の影響で、PERが低めに算出されています。 ・仮条件に伴い、初値予想を「540円 ～ 840円（8月18日時点）」から「570円 ～ 870円（9月1日時点）」に変更しました。\n\n## IPOスケジュール\n\n| 抽選申込期間 | 9月3日(木)～9月9日(水) |\n| --- | --- |\n| 当選発表日 | 9月10日(木) |\n| 購入申込期間 | 9月11日(金)～9月16日(水) |\n| 上場日 | 2026年9月18日(金) |\n\n※証券会社によって、スケジュールが異なることがあるので、必ず確認してください。\n\n## IPO当選株数\n\n| 公募株数 | 378,000株 |\n| --- | --- |\n| 売出株数（OA含む） | 2,164,700株 |\n| 当選株数合計 | 2,542,700株 |\n\n・当選株数は2,542,700株。売買単位が100株なので、当たりは計25,427本。 ・当選本数は多く、やや当たりやすい部類に入る。 ・368,000株を上限として親引けによる日本駐車場開発株式会社への売付けがおこなわれる可能性があります。\n\n## 幹事証券リスト（管理人独自予想あり）\n\n|  | 証券会社名 | 割当率 | 割当株数 | 当選本数 | 完全抽選本数 （予想） |\n| --- | --- | --- | --- | --- | --- |\n| 主幹事 | [SBI証券](https://www.ipokiso.com/security/sbi.html) | -％ | -株 | -本 | -本 |\n| 幹事 | [SMBC日興証券](https://www.ipokiso.com/security/nikko.html) | -％ | -株 | -本 | -本 |\n|  | みずほ証券 | -％ | -株 | -本 | -本 |\n|  | 岡三証券 | -％ | -株 | -本 | -本 |\n|  | 東海東京証券 | -％ | -株 | -本 | -本 |\n|  | [岩井コスモ証券](https://www.ipokiso.com/security/iwaicosmo.html) | -％ | -株 | -本 | -本 |\n|  | [マネックス証券](https://www.ipokiso.com/security/monex.html) | -％ | -株 | -本 | -本 |\n|  | むさし証券 | -％ | -株 | -本 | -本 |\n|  | [楽天証券](https://www.ipokiso.com/security/rakuten.html) | -％ | -株 | -本 | -本 |\n\n※「割当率」や「当選本数」などの数字は、公募価格決定時付近に発表。 ・[SBI証券（主幹事）](https://www.ipokiso.com/security/sbi.html)、[SMBC日興証券（副幹事）](https://www.ipokiso.com/security/nikko.html)、[岩井コスモ証券](https://www.ipokiso.com/security/iwaicosmo.html)、[マネックス証券](https://www.ipokiso.com/security/monex.html)、[楽天証券](https://www.ipokiso.com/security/rakuten.html)から当選のチャンス。 ※SBI証券が主幹事のときは、[IPOチャレンジポイント](https://www.ipokiso.com/data/sbi_challenge_point.html)を活用して当選をねらいましょう！ ・その他、[SBIネオトレード証券](https://www.ipokiso.com/security/livestar.html)から申し込み可能となりました。（8月20日追記） ・その他、[DMM 株](https://www.ipokiso.com/security/dmmkabu.html)から申し込み可能となりました。（8月27日追記） ・その他、[松井証券](https://www.ipokiso.com/security/matsui.html)から申し込み可能となりました。（9月3日追記）\n\n## 株主構成、ロックアップなど\n\n| 株主名 | 比率 | ロック アップ |\n| --- | --- | --- |\n| SOMPOホールディングス（株） | 29.12％ | 360日間 |\n| 金谷 元気（社長） | 16.91％ | 360日間 |\n| （株）ディー・エヌ・エー | 14.47％ | 180日間 |\n| 住友商事（株） | 4.87％ | 180日間 |\n| グロービス５号ファンド投資事業有限責任組合 | 4.27％ | 180日間 1.5倍 |\n| 従業員 | 2.64％ | 継続保有 |\n| （株）トリドールホールディングス | 2.45％ | 180日間 |\n| 日本駐車場開発（株） | 2.33％ | 180日間 |\n| 小林 寛之 | 2.19％ | 継続保有 |\n| Globis Fund V,L.P. | 1.82％ | 180日間 1.5倍 |\n\n## 企業業績のデータ（5年分）\n\n[⇒akippaの有価証券届出書](https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YXBM.pdf)\n\n|  | 2021年 12月 | 2022年 12月 | 2023年 12月 | 2024年 12月 | 2025年 12月 |\n| --- | --- | --- | --- | --- | --- |\n| 売上高（百万円） | 1,480 | 2,082 | 2,619 | 3,191 | 3,828 |\n| 経常利益（百万円） | △311 | △74 | 50 | 31 | 204 |\n| 当期純利益（百万円） | △314 | △77 | 86 | 41 | 223 |\n| 純資産額（百万円） | 253 | 175 | 261 | 301 | 525 |\n| 1株あたりの純資産額（円） | △1,219 | 30 | △405 | △395 | △341 |\n| 1株あたりの純利益（円） | △229 | △18 | 19 | 10 | 54 |\n| 自己資本比率（％） | 31.3 | 23.8 | 33.5 | 37.5 | 49.9 |\n| 自己資本利益率（％） | - | - | 39.5 | 14.4 | 54.1 |\n\n※2022年12月期以降、株式1株につき3株の分割を反映 ・2026年12月期は第2四半期時点で売上高1,915百万円、経常利益123百万円を達成しています。IPOで得た資金は人件費及び外部専門人材の活用に係る業務委託費用に充てる予定です。\n\n## 管理人からのコメント\n\nakippa[アキッパ]（627A）は、「駐車場マーケットプレイス『アキッパ』の運営」を主な事業としています。『アキッパ』は、空いている月極駐車場や個人宅の車庫、空き地などを、ネットで予約して利用できる駐車場シェアリングサービスです。アプリから近くの駐車場を探して事前に予約できるため、現地で駐車場を探す手間が省けます。一方で、駐車場を貸し出すのもかんたんです。初期費用が無料で、事前決済制になっているため、個人でも安心してはじめられます。 2025年12月時点でユーザー数は累計500万人以上、掲載駐車場数は5万5,000件以上と、多くのユーザーや駐車場オーナーに利用されています。\n\n直近の業績を見ると、売上は順調に伸びています。一時は赤字続きだった利益は、2023年12月期以降黒字を維持しています。さらに、会社発表の業績予想によると、2026年12月期は売上高が前年比+12.3％の約43億円、経常利益が前年比+67％の約3.4億円と、増収増益の予想が出ています。今期も順調に業績を伸ばしているようです。 今後の成長性に関しては、全国には7,264万台以上の駐車場があり、この大きな市場でさらに成長するため、M&Aやサービスの向上に力を入れていくと発表しています。\n\n公開株数が多く、主要株主のロックアップに解除条件が付いている点が気がかりです。しかし、想定価格が低いため、通常より買いは入りやすい状況と言えます。同日に[ベルテックス（623A）](https://www.ipokiso.com/company/2026/vertex-c.html)、[テクノクラフト（622A）](https://www.ipokiso.com/company/2026/tecraft.html)、[かがやきホールディングス（624A）](https://www.ipokiso.com/company/2026/kagayaki-grp.html)が上場予定となっているので、やや買いが集まりにくくなっています。総合的に判断して、初値は小幅な上昇にとどまると予想します。\n\nネット証券では、[SBI証券（主幹事）](https://www.ipokiso.com/security/sbi.html)、[SMBC日興証券（副幹事）](https://www.ipokiso.com/security/nikko.html)、[岩井コスモ証券](https://www.ipokiso.com/security/iwaicosmo.html)、[マネックス証券](https://www.ipokiso.com/security/monex.html)、[楽天証券](https://www.ipokiso.com/security/rakuten.html)、[SBIネオトレード証券](https://www.ipokiso.com/security/livestar.html)、[DMM 株](https://www.ipokiso.com/security/dmmkabu.html)、[松井証券](https://www.ipokiso.com/security/matsui.html)から申し込み可能となっています。",
+    "sections": [
+      {
+        "title": "akippa[アキッパ]（627A）",
+        "markdown": "akippa[アキッパ]の事業内容は「駐車場マーケットプレイス『アキッパ』の運営」で、東証スタンダード上場の小型案件（想定時価総額33.8億円、吸収金額13.7億円）です。統計的に初値が上昇しやすい「[想定価格が1,000円以下](https://www.ipokiso.com/data/under_1000.html)」、「[SBI証券が主幹事](https://www.ipokiso.com/data/tl_sbi.html)」の案件ですが、総合的に判断して、初値は小幅な上昇にとどまると予想します。\n\n[想定価格が1,000円以下のIPOの結果をまとめました！](https://www.ipokiso.com/data/under_1000.html)\n[SBI証券が主幹事のIPOをまとめました！](https://www.ipokiso.com/data/tl_sbi.html)\n[公開株数の“多い”過去のIPOを分析しました！](https://www.ipokiso.com/data/stocks_many.html)\n\n| 成長性 | 割安性 |\n| --- | --- |\n|  |  |\n| 話題性 | 総合評価 |\n|  |  |"
+      },
+      {
+        "title": "基本情報",
+        "markdown": "| 会社名 | akippa[アキッパ]（627A） 【東証スタンダード】 |\n| --- | --- |\n| 会社URL | [https://akippa.co.jp/](https://akippa.co.jp/) |\n| 会社設立 | 2009年2月（18年目） |\n| 主幹事証券 | [SBI証券](https://www.ipokiso.com/security/sbi.html) |\n| その他 狙い目証券会社 | [SMBC日興証券（副幹事）](https://www.ipokiso.com/security/nikko.html)、[岩井コスモ証券](https://www.ipokiso.com/security/iwaicosmo.html)、[マネックス証券](https://www.ipokiso.com/security/monex.html)、[楽天証券](https://www.ipokiso.com/security/rakuten.html)、[SBIネオトレード証券](https://www.ipokiso.com/security/livestar.html)、[DMM 株](https://www.ipokiso.com/security/dmmkabu.html)、[松井証券](https://www.ipokiso.com/security/matsui.html) |"
+      },
+      {
+        "title": "IPO価格情報・初値予想（独自）",
+        "markdown": "| 想定価格 | 540円 |\n| --- | --- |\n| 仮条件 | 540円 ～ 570円 |\n| 公募価格 | 未発表 |\n| 初値予想（独自） | 570円 ～ 870円（9月1日時点） |\n| 初値 | - |\n\n・想定価格540円に対して、PER15.15倍、PBR4.9倍、配当利回り-％ ※直近期末の決算数値をもとに、IPOによる調達資金と新規発行株数を考慮して計算しています。 1株あたり純利益35.6円、1株あたり純資産110.8円、1株あたり配当金-円 ※累積赤字の影響で、PERが低めに算出されています。 ・仮条件に伴い、初値予想を「540円 ～ 840円（8月18日時点）」から「570円 ～ 870円（9月1日時点）」に変更しました。"
+      },
+      {
+        "title": "IPOスケジュール",
+        "markdown": "| 抽選申込期間 | 9月3日(木)～9月9日(水) |\n| --- | --- |\n| 当選発表日 | 9月10日(木) |\n| 購入申込期間 | 9月11日(金)～9月16日(水) |\n| 上場日 | 2026年9月18日(金) |\n\n※証券会社によって、スケジュールが異なることがあるので、必ず確認してください。"
+      },
+      {
+        "title": "IPO当選株数",
+        "markdown": "| 公募株数 | 378,000株 |\n| --- | --- |\n| 売出株数（OA含む） | 2,164,700株 |\n| 当選株数合計 | 2,542,700株 |\n\n・当選株数は2,542,700株。売買単位が100株なので、当たりは計25,427本。 ・当選本数は多く、やや当たりやすい部類に入る。 ・368,000株を上限として親引けによる日本駐車場開発株式会社への売付けがおこなわれる可能性があります。"
+      },
+      {
+        "title": "幹事証券リスト（管理人独自予想あり）",
+        "markdown": "|  | 証券会社名 | 割当率 | 割当株数 | 当選本数 | 完全抽選本数 （予想） |\n| --- | --- | --- | --- | --- | --- |\n| 主幹事 | [SBI証券](https://www.ipokiso.com/security/sbi.html) | -％ | -株 | -本 | -本 |\n| 幹事 | [SMBC日興証券](https://www.ipokiso.com/security/nikko.html) | -％ | -株 | -本 | -本 |\n|  | みずほ証券 | -％ | -株 | -本 | -本 |\n|  | 岡三証券 | -％ | -株 | -本 | -本 |\n|  | 東海東京証券 | -％ | -株 | -本 | -本 |\n|  | [岩井コスモ証券](https://www.ipokiso.com/security/iwaicosmo.html) | -％ | -株 | -本 | -本 |\n|  | [マネックス証券](https://www.ipokiso.com/security/monex.html) | -％ | -株 | -本 | -本 |\n|  | むさし証券 | -％ | -株 | -本 | -本 |\n|  | [楽天証券](https://www.ipokiso.com/security/rakuten.html) | -％ | -株 | -本 | -本 |\n\n※「割当率」や「当選本数」などの数字は、公募価格決定時付近に発表。 ・[SBI証券（主幹事）](https://www.ipokiso.com/security/sbi.html)、[SMBC日興証券（副幹事）](https://www.ipokiso.com/security/nikko.html)、[岩井コスモ証券](https://www.ipokiso.com/security/iwaicosmo.html)、[マネックス証券](https://www.ipokiso.com/security/monex.html)、[楽天証券](https://www.ipokiso.com/security/rakuten.html)から当選のチャンス。 ※SBI証券が主幹事のときは、[IPOチャレンジポイント](https://www.ipokiso.com/data/sbi_challenge_point.html)を活用して当選をねらいましょう！ ・その他、[SBIネオトレード証券](https://www.ipokiso.com/security/livestar.html)から申し込み可能となりました。（8月20日追記） ・その他、[DMM 株](https://www.ipokiso.com/security/dmmkabu.html)から申し込み可能となりました。（8月27日追記） ・その他、[松井証券](https://www.ipokiso.com/security/matsui.html)から申し込み可能となりました。（9月3日追記）"
+      },
+      {
+        "title": "株主構成、ロックアップなど",
+        "markdown": "| 株主名 | 比率 | ロック アップ |\n| --- | --- | --- |\n| SOMPOホールディングス（株） | 29.12％ | 360日間 |\n| 金谷 元気（社長） | 16.91％ | 360日間 |\n| （株）ディー・エヌ・エー | 14.47％ | 180日間 |\n| 住友商事（株） | 4.87％ | 180日間 |\n| グロービス５号ファンド投資事業有限責任組合 | 4.27％ | 180日間 1.5倍 |\n| 従業員 | 2.64％ | 継続保有 |\n| （株）トリドールホールディングス | 2.45％ | 180日間 |\n| 日本駐車場開発（株） | 2.33％ | 180日間 |\n| 小林 寛之 | 2.19％ | 継続保有 |\n| Globis Fund V,L.P. | 1.82％ | 180日間 1.5倍 |"
+      },
+      {
+        "title": "企業業績のデータ（5年分）",
+        "markdown": "[⇒akippaの有価証券届出書](https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YXBM.pdf)\n\n|  | 2021年 12月 | 2022年 12月 | 2023年 12月 | 2024年 12月 | 2025年 12月 |\n| --- | --- | --- | --- | --- | --- |\n| 売上高（百万円） | 1,480 | 2,082 | 2,619 | 3,191 | 3,828 |\n| 経常利益（百万円） | △311 | △74 | 50 | 31 | 204 |\n| 当期純利益（百万円） | △314 | △77 | 86 | 41 | 223 |\n| 純資産額（百万円） | 253 | 175 | 261 | 301 | 525 |\n| 1株あたりの純資産額（円） | △1,219 | 30 | △405 | △395 | △341 |\n| 1株あたりの純利益（円） | △229 | △18 | 19 | 10 | 54 |\n| 自己資本比率（％） | 31.3 | 23.8 | 33.5 | 37.5 | 49.9 |\n| 自己資本利益率（％） | - | - | 39.5 | 14.4 | 54.1 |\n\n※2022年12月期以降、株式1株につき3株の分割を反映 ・2026年12月期は第2四半期時点で売上高1,915百万円、経常利益123百万円を達成しています。IPOで得た資金は人件費及び外部専門人材の活用に係る業務委託費用に充てる予定です。"
+      },
+      {
+        "title": "管理人からのコメント",
+        "markdown": "akippa[アキッパ]（627A）は、「駐車場マーケットプレイス『アキッパ』の運営」を主な事業としています。『アキッパ』は、空いている月極駐車場や個人宅の車庫、空き地などを、ネットで予約して利用できる駐車場シェアリングサービスです。アプリから近くの駐車場を探して事前に予約できるため、現地で駐車場を探す手間が省けます。一方で、駐車場を貸し出すのもかんたんです。初期費用が無料で、事前決済制になっているため、個人でも安心してはじめられます。 2025年12月時点でユーザー数は累計500万人以上、掲載駐車場数は5万5,000件以上と、多くのユーザーや駐車場オーナーに利用されています。\n\n直近の業績を見ると、売上は順調に伸びています。一時は赤字続きだった利益は、2023年12月期以降黒字を維持しています。さらに、会社発表の業績予想によると、2026年12月期は売上高が前年比+12.3％の約43億円、経常利益が前年比+67％の約3.4億円と、増収増益の予想が出ています。今期も順調に業績を伸ばしているようです。 今後の成長性に関しては、全国には7,264万台以上の駐車場があり、この大きな市場でさらに成長するため、M&Aやサービスの向上に力を入れていくと発表しています。\n\n公開株数が多く、主要株主のロックアップに解除条件が付いている点が気がかりです。しかし、想定価格が低いため、通常より買いは入りやすい状況と言えます。同日に[ベルテックス（623A）](https://www.ipokiso.com/company/2026/vertex-c.html)、[テクノクラフト（622A）](https://www.ipokiso.com/company/2026/tecraft.html)、[かがやきホールディングス（624A）](https://www.ipokiso.com/company/2026/kagayaki-grp.html)が上場予定となっているので、やや買いが集まりにくくなっています。総合的に判断して、初値は小幅な上昇にとどまると予想します。\n\nネット証券では、[SBI証券（主幹事）](https://www.ipokiso.com/security/sbi.html)、[SMBC日興証券（副幹事）](https://www.ipokiso.com/security/nikko.html)、[岩井コスモ証券](https://www.ipokiso.com/security/iwaicosmo.html)、[マネックス証券](https://www.ipokiso.com/security/monex.html)、[楽天証券](https://www.ipokiso.com/security/rakuten.html)、[SBIネオトレード証券](https://www.ipokiso.com/security/livestar.html)、[DMM 株](https://www.ipokiso.com/security/dmmkabu.html)、[松井証券](https://www.ipokiso.com/security/matsui.html)から申し込み可能となっています。"
+      }
+    ]
+  },
+  "raw_tables": [
+    {
+      "section": "akippa[アキッパ]（627A）",
+      "rows": [
+        [
+          {
+            "text": "成長性",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "割安性",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "",
+            "links": [],
+            "images": [
+              {
+                "alt": "◎",
+                "url": "https://www.ipokiso.com/common/images/ico_company-m0.png"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "",
+            "links": [],
+            "images": [
+              {
+                "alt": "○",
+                "url": "https://www.ipokiso.com/common/images/ico_company-m1.png"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "話題性",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "総合評価",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "",
+            "links": [],
+            "images": [
+              {
+                "alt": "○",
+                "url": "https://www.ipokiso.com/common/images/ico_company-m1.png"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "",
+            "links": [],
+            "images": [
+              {
+                "alt": "C",
+                "url": "https://www.ipokiso.com/common/images/ico_company-c.png"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ]
+      ],
+      "html": "<table class=\"company01\">\n<tr>\n<th>成長性</th>\n<th>割安性</th>\n</tr>\n<tr>\n<td><img alt=\"◎\" height=\"30\" src=\"/common/images/ico_company-m0.png\"/></td>\n<td><img alt=\"○\" height=\"30\" src=\"/common/images/ico_company-m1.png\"/></td>\n</tr>\n<tr>\n<th>話題性</th>\n<th>総合評価<a title=\"header=[総合評価] body=[初値売りでどの程度利益が見込めるかに加え、公表されている各種データを元に評価を決定。&lt;br&gt;\r\n&lt;br&gt;\r\nS：+50万円以上&lt;br&gt;\r\nA：+20万円～50万円&lt;br&gt;\r\nB：+10万円～20万円&lt;br&gt;\r\nC：+10万円未満&lt;br&gt;\r\nD：公募割れの可能性あり] hideselects=[on]\"><img alt=\"?\" height=\"14\" src=\"/company/image/q.gif\" width=\"24\"/></a></th>\n</tr>\n<tr>\n<td><img alt=\"○\" height=\"30\" src=\"/common/images/ico_company-m1.png\"/></td>\n<td><img alt=\"C\" height=\"30\" src=\"/common/images/ico_company-c.png\"/></td>\n</tr>\n</table>",
+      "preceding_text": ""
+    },
+    {
+      "section": "基本情報",
+      "rows": [
+        [
+          {
+            "text": "会社名",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "akippa[アキッパ]（627A）　【東証スタンダード】",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "会社URL",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "https://akippa.co.jp/",
+            "links": [
+              {
+                "text": "https://akippa.co.jp/",
+                "url": "https://akippa.co.jp/"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "会社設立",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "2009年2月（18年目）",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "主幹事証券",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "SBI証券",
+            "links": [
+              {
+                "text": "SBI証券",
+                "url": "https://www.ipokiso.com/security/sbi.html"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "その他 狙い目証券会社",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "SMBC日興証券（副幹事） 、 岩井コスモ証券 、 マネックス証券 、 楽天証券 、 SBIネオトレード証券 、 DMM 株 、 松井証券",
+            "links": [
+              {
+                "text": "SMBC日興証券（副幹事）",
+                "url": "https://www.ipokiso.com/security/nikko.html"
+              },
+              {
+                "text": "岩井コスモ証券",
+                "url": "https://www.ipokiso.com/security/iwaicosmo.html"
+              },
+              {
+                "text": "マネックス証券",
+                "url": "https://www.ipokiso.com/security/monex.html"
+              },
+              {
+                "text": "楽天証券",
+                "url": "https://www.ipokiso.com/security/rakuten.html"
+              },
+              {
+                "text": "SBIネオトレード証券",
+                "url": "https://www.ipokiso.com/security/livestar.html"
+              },
+              {
+                "text": "DMM 株",
+                "url": "https://www.ipokiso.com/security/dmmkabu.html"
+              },
+              {
+                "text": "松井証券",
+                "url": "https://www.ipokiso.com/security/matsui.html"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ]
+      ],
+      "html": "<table class=\"kobetudate\">\n<tr>\n<th>会社名</th>\n<td>akippa[アキッパ]（627A）　【東証スタンダード】</td>\n</tr>\n<tr>\n<th>会社URL</th>\n<td><a href=\"https://akippa.co.jp/\" target=\"_blank\">https://akippa.co.jp/</a></td>\n</tr>\n<tr>\n<th>会社設立</th>\n<td>2009年2月（18年目）</td>\n</tr>\n<tr>\n<th>主幹事証券</th>\n<td class=\"bold\"><a href=\"/security/sbi.html\">SBI証券</a></td>\n</tr>\n<tr>\n<th>その他<br/>狙い目証券会社</th>\n<td><a href=\"/security/nikko.html\">SMBC日興証券（副幹事）</a>、<a href=\"/security/iwaicosmo.html\">岩井コスモ証券</a>、<a href=\"/security/monex.html\">マネックス証券</a>、<a href=\"/security/rakuten.html\">楽天証券</a>、<a href=\"/security/livestar.html\">SBIネオトレード証券</a>、<a href=\"/security/dmmkabu.html\">DMM 株</a>、<a href=\"/security/matsui.html\">松井証券</a></td>\n</tr>\n</table>",
+      "preceding_text": "基本情報"
+    },
+    {
+      "section": "IPO価格情報・初値予想（独自）",
+      "rows": [
+        [
+          {
+            "text": "想定価格",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "540円",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "仮条件",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "540円 ～ 570円",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "公募価格",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "未発表",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "初値予想（独自）",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "570円 ～ 870円（9月1日時点）",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "初値",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ]
+      ],
+      "html": "<table class=\"kobetudate02\">\n<tr>\n<th>想定価格<a title=\"header=[想定価格] body=[IPO株の予定価格（目安）のことで、これを基準に「仮条件」が決められる。] hideselects=[on]\"><img alt=\"?\" height=\"14\" src=\"/company/image/q.gif\" width=\"24\"/></a></th>\n<td>540円</td>\n</tr>\n<tr>\n<th>仮条件<a title=\"header=[仮条件] body=[IPOの申し込みができる価格帯。仮条件の最大値で申し込みをするのが当選のコツ。] hideselects=[on]\"><img alt=\"?\" height=\"14\" src=\"/company/image/q.gif\" width=\"24\"/></a></th>\n<td>540円 ～ 570円</td>\n</tr>\n<tr>\n<th>公募価格<a title=\"header=[公募価格] body=[仮条件の範囲内において、投資家の人気で決まる価格。仮条件の上限で決まることが多い。] hideselects=[on]\"><img alt=\"?\" height=\"14\" src=\"/company/image/q.gif\" width=\"24\"/></a></th>\n<td><b>未発表</b></td>\n</tr>\n<tr>\n<th>初値予想（独自）</th>\n<td>570円 ～ 870円（9月1日時点）</td>\n</tr>\n<tr>\n<th>初値<a title=\"header=[初値（はつね）] body=[上場して初めて付く株価。人気のある株ほど初値は高くなる。] hideselects=[on]\"><img alt=\"?\" height=\"14\" src=\"/company/image/q.gif\" width=\"24\"/></a></th>\n<td>-</td>\n</tr>\n</table>",
+      "preceding_text": "IPO価格情報・初値予想（独自）"
+    },
+    {
+      "section": "IPOスケジュール",
+      "rows": [
+        [
+          {
+            "text": "抽選申込期間",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "9月3日(木)～9月9日(水)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "当選発表日",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "9月10日(木)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "購入申込期間",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "9月11日(金)～9月16日(水)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "上場日",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "2026年9月18日(金)",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ]
+      ],
+      "html": "<table class=\"kobetudate03\">\n<tr>\n<th>抽選申込期間<a title=\"header=[抽選申し込み期間] body=[この期間中に、IPO株の申し込みを済ませておく。忘れると抽選の対象にならない。] hideselects=[on]\"><img alt=\"?\" height=\"14\" src=\"/company/image/q.gif\" width=\"24\"/></a></th>\n<td>9月3日(木)～9月9日(水)</td>\n</tr>\n<tr>\n<th>当選発表日<a title=\"header=[当選発表日] body=[この日に当選・落選がわかる。証券会社によって当選発表日・時間帯にバラツキがある。] hideselects=[on]\"><img alt=\"?\" height=\"14\" src=\"/company/image/q.gif\" width=\"24\"/></a></th>\n<td>9月10日(木)</td>\n</tr>\n<tr>\n<th>購入申込期間<a title=\"header=[購入申し込み期間] body=[IPO株に当選した場合、必ずこの期間に「購入」の意思表示をする。忘れると落選と同じ扱いになるので要注意！] hideselects=[on]\"><img alt=\"?\" height=\"14\" src=\"/company/image/q.gif\" width=\"24\"/></a></th>\n<td>9月11日(金)～9月16日(水)</td>\n</tr>\n<tr>\n<th>上場日<a title=\"header=[上場日] body=[会社の株を売買できるようになる日。初値で売りたい場合は売り注文を出しておくこと。] hideselects=[on]\"><img alt=\"?\" height=\"14\" src=\"/company/image/q.gif\" width=\"24\"/></a></th>\n<td>2026年9月18日(金)</td>\n</tr>\n</table>",
+      "preceding_text": "IPOスケジュール"
+    },
+    {
+      "section": "IPO当選株数",
+      "rows": [
+        [
+          {
+            "text": "公募株数",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "378,000株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "売出株数（OA含む）",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "2,164,700株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "当選株数合計",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "2,542,700株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ]
+      ],
+      "html": "<table class=\"kobetudate03\">\n<tr>\n<th>公募株数<a title=\"header=[公募株数（こうぼかぶすう）] body=[資金調達のために、上場時に新しく発行された株数。IPO抽選に使われる株。] hideselects=[on]\"><img alt=\"?\" height=\"14\" src=\"/company/image/q.gif\" width=\"24\"/></a></th>\n<td>378,000株</td>\n</tr>\n<tr>\n<th>売出株数（OA含む）<a title=\"header=[売出株数（うりだしかぶすう）] body=[創業者などの大株主が保有している株の一部を投資家に買ってもらう株数。こちらも、IPO抽選に使われる。] hideselects=[on]\"><img alt=\"?\" height=\"14\" src=\"/company/image/q.gif\" width=\"24\"/></a></th>\n<td>2,164,700株</td>\n</tr>\n<tr>\n<th>当選株数合計</th>\n<td><b>2,542,700株</b></td>\n</tr>\n</table>",
+      "preceding_text": "IPO当選株数"
+    },
+    {
+      "section": "幹事証券リスト（管理人独自予想あり）",
+      "rows": [
+        [
+          {
+            "text": "",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "証券会社名",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "割当率",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/question.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "割当株数",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/question.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "当選本数",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/question.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "完全抽選本数 （予想）",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/question.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "主幹事",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "SBI証券",
+            "links": [
+              {
+                "text": "SBI証券",
+                "url": "https://www.ipokiso.com/security/sbi.html"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "幹事",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "8",
+            "colspan": "1"
+          },
+          {
+            "text": "SMBC日興証券",
+            "links": [
+              {
+                "text": "SMBC日興証券",
+                "url": "https://www.ipokiso.com/security/nikko.html"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "みずほ証券",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "岡三証券",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "東海東京証券",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "岩井コスモ証券",
+            "links": [
+              {
+                "text": "岩井コスモ証券",
+                "url": "https://www.ipokiso.com/security/iwaicosmo.html"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "マネックス証券",
+            "links": [
+              {
+                "text": "マネックス証券",
+                "url": "https://www.ipokiso.com/security/monex.html"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "むさし証券",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "楽天証券",
+            "links": [
+              {
+                "text": "楽天証券",
+                "url": "https://www.ipokiso.com/security/rakuten.html"
+              }
+            ],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-株",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-本",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ]
+      ],
+      "html": "<table class=\"kobetudate04\">\n<tr>\n<th class=\"side01\"> </th>\n<td align=\"center\" class=\"back-pink bold f-gray side02\">証券会社名</td>\n<td align=\"center\" class=\"back-pink bold f-gray side03\">割当率<a title=\"header=[割当率（わりあてりつ）] body=[IPO株が証券会社に何％配分されたかがわかる数字。割当率が高い方が配分が多く当たりやすい。] hideselects=[on]\"><img alt=\"?\" height=\"15\" src=\"/company/image/question.gif\" width=\"15\"/></a></td>\n<td align=\"center\" class=\"back-pink bold f-gray side04\">割当株数 <a title=\"header=[割当株数（わりあてかぶすう）] body=[証券会社に割り当てられる株数（推定値）。「すべてのIPO抽選株数×割当率」で計算される] hideselects=[on]\"><img alt=\"?\" height=\"15\" src=\"/company/image/question.gif\" width=\"15\"/></a></td>\n<td align=\"center\" class=\"back-pink bold f-gray side05\">当選本数 <a title=\"header=[当選本数（とうせんほんすう）] body=[純粋な当たりの本数。100株単位の場合は、「割当株数÷100（株）」で計算される] hideselects=[on]\"><img alt=\"?\" height=\"15\" src=\"/company/image/question.gif\" width=\"15\"/></a></td>\n<td align=\"center\" class=\"back-pink bold f-gray side06\">完全抽選本数<br/>\r\n（予想） <a title=\"header=[完全抽選本数（かんぜんちゅうせんほんすう）] body=[当選本数の中でも、ネット抽選で公平に配分される本数（推定値）。] hideselects=[on]\"><img alt=\"?\" height=\"15\" src=\"/company/image/question.gif\" width=\"15\"/></a></td>\n</tr>\n<tr>\n<th>主幹事</th>\n<td><a href=\"/security/sbi.html\">SBI証券</a></td>\n<td class=\"bold\">-％</td>\n<td>-株</td>\n<td>-本</td>\n<td class=\"red-bold\">-本</td>\n</tr>\n<tr>\n<th rowspan=\"8\">幹事</th>\n<td><a href=\"/security/nikko.html\">SMBC日興証券</a></td>\n<td>-％</td>\n<td>-株</td>\n<td>-本</td>\n<td class=\"bold\">-本</td>\n</tr>\n<tr>\n<td>みずほ証券</td>\n<td>-％</td>\n<td>-株</td>\n<td>-本</td>\n<td>-本</td>\n</tr>\n<tr>\n<td>岡三証券</td>\n<td>-％</td>\n<td>-株</td>\n<td>-本</td>\n<td>-本</td>\n</tr>\n<tr>\n<td>東海東京証券</td>\n<td>-％</td>\n<td>-株</td>\n<td>-本</td>\n<td>-本</td>\n</tr>\n<tr>\n<td><a href=\"/security/iwaicosmo.html\">岩井コスモ証券</a></td>\n<td>-％</td>\n<td>-株</td>\n<td>-本</td>\n<td class=\"bold\">-本</td>\n</tr>\n<tr>\n<td><a href=\"/security/monex.html\">マネックス証券</a></td>\n<td>-％</td>\n<td>-株</td>\n<td>-本</td>\n<td class=\"bold\">-本</td>\n</tr>\n<tr>\n<td>むさし証券</td>\n<td>-％</td>\n<td>-株</td>\n<td>-本</td>\n<td>-本</td>\n</tr>\n<tr>\n<td><a href=\"/security/rakuten.html\">楽天証券</a></td>\n<td>-％</td>\n<td>-株</td>\n<td>-本</td>\n<td class=\"bold\">-本</td>\n</tr>\n</table>",
+      "preceding_text": "幹事証券リスト（管理人独自予想あり）"
+    },
+    {
+      "section": "株主構成、ロックアップなど",
+      "rows": [
+        [
+          {
+            "text": "株主名",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "比率",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "ロック アップ",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "SOMPOホールディングス（株）",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "29.12％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "360日間",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "金谷 元気 （社長）",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "16.91％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "360日間",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "（株）ディー・エヌ・エー",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "14.47％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "180日間",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "住友商事（株）",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "4.87％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "180日間",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "グロービス５号ファンド投資事業有限責任組合",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "4.27％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "180日間 1.5倍",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "従業員",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "2.64％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "継続保有",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "（株）トリドールホールディングス",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "2.45％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "180日間",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "日本駐車場開発（株）",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "2.33％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "180日間",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "小林 寛之",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "2.19％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "継続保有",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "Globis Fund V,L.P.",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "1.82％",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "180日間 1.5倍",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ]
+      ],
+      "html": "<table class=\"kobetudate05\">\n<tr>\n<th class=\"kousei01\">株主名</th>\n<th class=\"kousei02\">比率</th>\n<th class=\"kousei03\">ロック<br/>\r\nアップ</th>\n</tr>\n<tr>\n<td>SOMPOホールディングス（株）</td>\n<td>29.12％</td>\n<td>360日間</td>\n</tr>\n<tr>\n<td><b>金谷 元気</b>（社長）</td>\n<td>16.91％</td>\n<td>360日間</td>\n</tr>\n<tr>\n<td>（株）ディー・エヌ・エー</td>\n<td>14.47％</td>\n<td>180日間</td>\n</tr>\n<tr>\n<td>住友商事（株）</td>\n<td>4.87％</td>\n<td>180日間</td>\n</tr>\n<tr>\n<td>グロービス５号ファンド投資事業有限責任組合</td>\n<td>4.27％</td>\n<td>180日間<br/>\r\n1.5倍</td>\n</tr>\n<tr>\n<td>従業員</td>\n<td>2.64％</td>\n<td>継続保有</td>\n</tr>\n<tr>\n<td>（株）トリドールホールディングス</td>\n<td>2.45％</td>\n<td>180日間</td>\n</tr>\n<tr>\n<td>日本駐車場開発（株）</td>\n<td>2.33％</td>\n<td>180日間</td>\n</tr>\n<tr>\n<td>小林 寛之</td>\n<td>2.19％</td>\n<td>継続保有</td>\n</tr>\n<tr>\n<td>Globis Fund V,L.P.</td>\n<td>1.82％</td>\n<td>180日間<br/>\r\n1.5倍</td>\n</tr>\n</table>",
+      "preceding_text": "株主構成、ロックアップなど"
+    },
+    {
+      "section": "企業業績のデータ（5年分）",
+      "rows": [
+        [
+          {
+            "text": "",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "2021年 12月",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "2022年 12月",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "2023年 12月",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "2024年 12月",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "2025年 12月",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "売上高（百万円）",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "1,480",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "2,082",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "2,619",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "3,191",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "3,828",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "経常利益（百万円）",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "△311",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "△74",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "50",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "31",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "204",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "当期純利益（百万円）",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "△314",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "△77",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "86",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "41",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "223",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "純資産額（百万円）",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "253",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "175",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "261",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "301",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "525",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "1株あたりの純資産額（円）",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "△1,219",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "30",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "△405",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "△395",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "△341",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "1株あたりの純利益（円）",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "△229",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "△18",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "19",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "10",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "54",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "自己資本比率（％）",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "31.3",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "23.8",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "33.5",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "37.5",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "49.9",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ],
+        [
+          {
+            "text": "自己資本利益率（％）",
+            "links": [],
+            "images": [
+              {
+                "alt": "?",
+                "url": "https://www.ipokiso.com/company/image/q.gif"
+              }
+            ],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "-",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "39.5",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "14.4",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          },
+          {
+            "text": "54.1",
+            "links": [],
+            "images": [],
+            "italic": false,
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        ]
+      ],
+      "html": "<table class=\"kobetudate04\">\n<tr>\n<th> </th><td>2021年<br/>12月</td>\n<td>2022年<br/>12月</td>\n<td>2023年<br/>12月</td>\n<td>2024年<br/>12月</td>\n<td><b>2025年<br/>12月</b></td></tr>\n<tr><th>売上高（百万円）<a title=\"header=[売上高（うりあげだか）] body=[会社の収入を合計したもので、利益の元となるもの。売上高の大きさは、会社の事業規模を示す。] hideselects=[on]\"><img alt=\"?\" height=\"14\" src=\"/company/image/q.gif\" width=\"24\"/></a></th>\n<td>1,480</td>\n<td>2,082</td>\n<td>2,619</td>\n<td>3,191</td>\n<td><b>3,828</b></td></tr>\n<tr><th>経常利益（百万円）<a title=\"header=[経常利益（けいじょうりえき）] body=[本業以外の利益を含めた、会社の日常的な利益。「けいつね」と呼ばれることもある。] hideselects=[on]\"><img alt=\"?\" height=\"14\" src=\"/company/image/q.gif\" width=\"24\"/></a></th>\n<td class=\"red\">△311</td>\n<td class=\"red\">△74</td>\n<td>50</td>\n<td>31</td>\n<td><b>204</b></td></tr>\n<tr><th>当期純利益（百万円）<a title=\"header=[当期純利益（とうきじゅんりえき）] body=[経常利益から特別損益（特殊要因で一時的に発生した損益）を差し引きし、さらに税金分を引いた利益。「株主の取り分」とも言える。] hideselects=[on]\"><img alt=\"?\" height=\"14\" src=\"/company/image/q.gif\" width=\"24\"/></a></th>\n<td class=\"red\">△314</td>\n<td class=\"red\">△77</td>\n<td>86</td>\n<td>41</td>\n<td><b>223</b></td></tr>\n<tr><th>純資産額（百万円）<a title=\"header=[純資産額（じゅんしさんがく）] body=[会社の資本金やこれまでの利益などを足した金額（資本）。総資産から負債を引いて計算される。] hideselects=[on]\"><img alt=\"?\" height=\"14\" src=\"/company/image/q.gif\" width=\"24\"/></a></th>\n<td>253</td>\n<td>175</td>\n<td>261</td>\n<td>301</td>\n<td><b>525</b></td></tr>\n<tr><th>1株あたりの純資産額（円）<a title=\"header=[1株あたり純資産額] body=[純資産額を発行株数で割って計算される。BPS（ビーピーエス）とも呼ばれる。「1株あたり」に直すことで、株価との比較がしやすくなる。] hideselects=[on]\"><img alt=\"?\" height=\"14\" src=\"/company/image/q.gif\" width=\"24\"/></a></th>\n<td class=\"red\">△1,219</td>\n<td>30</td>\n<td class=\"red\">△405</td>\n<td class=\"red\">△395</td>\n<td class=\"red\"><b>△341</b></td></tr>\n<tr><th>1株あたりの純利益（円）<a title=\"header=[1株あたり純利益] body=[当期純利益を発行株数で割って計算される。EPS（イーピーエス）とも呼ばれる。「1株あたり」に直すことで、株価との比較がしやすくなる。] hideselects=[on]\"><img alt=\"?\" height=\"14\" src=\"/company/image/q.gif\" width=\"24\"/></a></th>\n<td class=\"red\">△229</td>\n<td class=\"red\">△18</td>\n<td>19</td>\n<td>10</td>\n<td><b>54</b></td></tr>\n<tr><th>自己資本比率（％）<a title=\"header=[自己資本比率（じこしほんひりつ）] body=[自己資本を総資産で割って計算される。数値が高い方が、自己資本の割合が多いことを示し（比率として借金が少ない）、財務健全性が高いと言える。] hideselects=[on]\"><img alt=\"?\" height=\"14\" src=\"/company/image/q.gif\" width=\"24\"/></a></th>\n<td>31.3</td>\n<td>23.8</td>\n<td>33.5</td>\n<td>37.5</td>\n<td><b>49.9</b></td></tr>\n<tr><th>自己資本利益率（％）<a title=\"header=[自己資本利益率（じこしほんりえきりつ）] body=[当期純利益を自己資本で割って計算される。数値が高い方が、少ない自己資本で多くの利益を出していることになり、効率的な経営ができていることがわかる。ROE（アールオーイー）とも呼ばれる。] hideselects=[on]\"><img alt=\"?\" height=\"14\" src=\"/company/image/q.gif\" width=\"24\"/></a></th>\n<td>-</td>\n<td>-</td>\n<td>39.5</td>\n<td>14.4</td>\n<td><b>54.1</b></td></tr>\n</table>",
+      "preceding_text": "⇒akippaの有価証券届出書"
+    }
+  ],
+  "warnings": [
+    "Dates, financial units and compound cells retain source text; no unverified normalization is applied."
+  ]
+}

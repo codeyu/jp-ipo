@@ -1,0 +1,471 @@
+{
+  "source": "https://www.ipokiso.com/company/index.html",
+  "scraped_at": "2026-09-07T22:36:14",
+  "months": [
+    9,
+    10
+  ],
+  "items": [
+    {
+      "month": 9,
+      "kabu_name": "レイヤード",
+      "code": "634A",
+      "detail_url": "/company/2026/layered.html",
+      "year": "2026",
+      "overall_rating": "C",
+      "market": "東証 スタンダード",
+      "application_period": "9/7 ～9/11",
+      "listing_date": "9/25",
+      "winning_shares": "9,775本",
+      "expected_price": "1,400円",
+      "provisional_range": "1,350円 ～1,400円",
+      "offering_price": "-",
+      "initial_price": "-",
+      "initial_price_change": "-",
+      "target_securities": [
+        {
+          "name": "SBI",
+          "url": "/security/sbi.html",
+          "role": "主"
+        },
+        {
+          "name": "岩井",
+          "url": "/security/iwaicosmo.html",
+          "role": ""
+        },
+        {
+          "name": "松井",
+          "url": "/security/matsui.html",
+          "role": ""
+        },
+        {
+          "name": "ネオトレード",
+          "url": "/security/livestar.html",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "month": 9,
+      "kabu_name": "akippa",
+      "code": "627A",
+      "detail_url": "/company/2026/akippa.html",
+      "year": "2026",
+      "overall_rating": "C",
+      "market": "東証 スタンダード",
+      "application_period": "9/3 ～9/9",
+      "listing_date": "9/18",
+      "winning_shares": "25,427本 （ 多い ）",
+      "expected_price": "540円 （ 低価格 ）",
+      "provisional_range": "540円 ～570円",
+      "offering_price": "-",
+      "initial_price": "-",
+      "initial_price_change": "-",
+      "target_securities": [
+        {
+          "name": "SBI",
+          "url": "/security/sbi.html",
+          "role": "主"
+        },
+        {
+          "name": "SMBC日興",
+          "url": "/security/nikko.html",
+          "role": "副"
+        },
+        {
+          "name": "岩井",
+          "url": "/security/iwaicosmo.html",
+          "role": ""
+        },
+        {
+          "name": "マネックス",
+          "url": "/security/monex.html",
+          "role": ""
+        },
+        {
+          "name": "楽天",
+          "url": "/security/rakuten.html",
+          "role": ""
+        },
+        {
+          "name": "ネオトレード",
+          "url": "/security/livestar.html",
+          "role": ""
+        },
+        {
+          "name": "松井",
+          "url": "/security/matsui.html",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "month": 9,
+      "kabu_name": "ベルテックス",
+      "code": "623A",
+      "detail_url": "/company/2026/vertex-c.html",
+      "year": "2026",
+      "overall_rating": "C",
+      "market": "東証 スタンダード",
+      "application_period": "9/3 ～9/9",
+      "listing_date": "9/18",
+      "winning_shares": "43,125本 （ 多い ）",
+      "expected_price": "530円 （ 低価格 ）",
+      "provisional_range": "530円 ～550円",
+      "offering_price": "-",
+      "initial_price": "-",
+      "initial_price_change": "-",
+      "target_securities": [
+        {
+          "name": "東海東京",
+          "url": "",
+          "role": "主"
+        },
+        {
+          "name": "SBI",
+          "url": "/security/sbi.html",
+          "role": "副"
+        },
+        {
+          "name": "松井",
+          "url": "/security/matsui.html",
+          "role": ""
+        },
+        {
+          "name": "マネックス",
+          "url": "/security/monex.html",
+          "role": ""
+        },
+        {
+          "name": "楽天",
+          "url": "/security/rakuten.html",
+          "role": ""
+        },
+        {
+          "name": "岩井",
+          "url": "/security/iwaicosmo.html",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "month": 9,
+      "kabu_name": "テクノクラフト",
+      "code": "622A",
+      "detail_url": "/company/2026/tecraft.html",
+      "year": "2026",
+      "overall_rating": "C",
+      "market": "東証 スタンダード",
+      "application_period": "9/3 ～9/9",
+      "listing_date": "9/18",
+      "winning_shares": "22,155本 （ 多い ）",
+      "expected_price": "630円 （ 低価格 ）",
+      "provisional_range": "630円 ～650円",
+      "offering_price": "-",
+      "initial_price": "-",
+      "initial_price_change": "-",
+      "target_securities": [
+        {
+          "name": "SMBC日興",
+          "url": "/security/nikko.html",
+          "role": "主"
+        },
+        {
+          "name": "SBI",
+          "url": "/security/sbi.html",
+          "role": "副"
+        },
+        {
+          "name": "eスマート",
+          "url": "/security/kabucom.html",
+          "role": ""
+        },
+        {
+          "name": "DMM 株",
+          "url": "/security/dmmkabu.html",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "month": 9,
+      "kabu_name": "かがやきホールディングス",
+      "code": "624A",
+      "detail_url": "/company/2026/kagayaki-grp.html",
+      "year": "2026",
+      "overall_rating": "C",
+      "market": "名証 ネクスト",
+      "application_period": "9/2 ～9/8",
+      "listing_date": "9/18",
+      "winning_shares": "2,300本 （ 少ない ）",
+      "expected_price": "700円 （ 低価格 ）",
+      "provisional_range": "700円 ～720円",
+      "offering_price": "-",
+      "initial_price": "-",
+      "initial_price_change": "-",
+      "target_securities": [
+        {
+          "name": "東海東京",
+          "url": "",
+          "role": "主"
+        },
+        {
+          "name": "SBI",
+          "url": "/security/sbi.html",
+          "role": "副"
+        },
+        {
+          "name": "DMM 株",
+          "url": "/security/dmmkabu.html",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "month": 9,
+      "kabu_name": "Skyfall",
+      "code": "625A",
+      "detail_url": "/company/2026/skyfall.html",
+      "year": "2026",
+      "overall_rating": "C",
+      "market": "東証 グロース",
+      "application_period": "9/2 ～9/8",
+      "listing_date": "9/17",
+      "winning_shares": "26,493本 （ 多い ）",
+      "expected_price": "1,500円",
+      "provisional_range": "1,450円 ～1,500円",
+      "offering_price": "-",
+      "initial_price": "-",
+      "initial_price_change": "-",
+      "target_securities": [
+        {
+          "name": "SBI",
+          "url": "/security/sbi.html",
+          "role": "主"
+        },
+        {
+          "name": "SMBC日興",
+          "url": "/security/nikko.html",
+          "role": ""
+        },
+        {
+          "name": "楽天",
+          "url": "/security/rakuten.html",
+          "role": ""
+        },
+        {
+          "name": "マネックス",
+          "url": "/security/monex.html",
+          "role": ""
+        },
+        {
+          "name": "松井",
+          "url": "/security/matsui.html",
+          "role": ""
+        },
+        {
+          "name": "ネオトレード",
+          "url": "/security/livestar.html",
+          "role": ""
+        },
+        {
+          "name": "DMM 株",
+          "url": "/security/dmmkabu.html",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "month": 9,
+      "kabu_name": "オーディオストック",
+      "code": "621A",
+      "detail_url": "/company/2026/audiostock.html",
+      "year": "2026",
+      "overall_rating": "C",
+      "market": "東証 グロース",
+      "application_period": "9/1 ～9/7",
+      "listing_date": "9/16",
+      "winning_shares": "12,776本",
+      "expected_price": "1,040円",
+      "provisional_range": "1,020円 ～1,060円",
+      "offering_price": "-",
+      "initial_price": "-",
+      "initial_price_change": "-",
+      "target_securities": [
+        {
+          "name": "SBI",
+          "url": "/security/sbi.html",
+          "role": "主"
+        },
+        {
+          "name": "岩井",
+          "url": "/security/iwaicosmo.html",
+          "role": ""
+        },
+        {
+          "name": "松井",
+          "url": "/security/matsui.html",
+          "role": ""
+        },
+        {
+          "name": "ネオトレード",
+          "url": "/security/livestar.html",
+          "role": ""
+        },
+        {
+          "name": "DMM 株",
+          "url": "/security/dmmkabu.html",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "month": 9,
+      "kabu_name": "オリバー",
+      "code": "619A",
+      "detail_url": "/company/2026/oliverinc.html",
+      "year": "2026",
+      "overall_rating": "D",
+      "market": "東証 スタンダード",
+      "application_period": "9/1 ～9/7",
+      "listing_date": "9/16",
+      "winning_shares": "852,158本 （ 多い ）",
+      "expected_price": "288円 （ 低価格 ）",
+      "provisional_range": "295円 ～305円",
+      "offering_price": "-",
+      "initial_price": "-",
+      "initial_price_change": "-",
+      "target_securities": [
+        {
+          "name": "野村",
+          "url": "",
+          "role": "主"
+        },
+        {
+          "name": "SMBC日興",
+          "url": "/security/nikko.html",
+          "role": ""
+        },
+        {
+          "name": "SBI",
+          "url": "/security/sbi.html",
+          "role": ""
+        },
+        {
+          "name": "楽天",
+          "url": "/security/rakuten.html",
+          "role": ""
+        },
+        {
+          "name": "松井",
+          "url": "/security/matsui.html",
+          "role": ""
+        },
+        {
+          "name": "岩井",
+          "url": "/security/iwaicosmo.html",
+          "role": ""
+        },
+        {
+          "name": "eスマート",
+          "url": "/security/kabucom.html",
+          "role": ""
+        },
+        {
+          "name": "DMM 株",
+          "url": "/security/dmmkabu.html",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "month": 9,
+      "kabu_name": "KOMPEITO",
+      "code": "618A",
+      "detail_url": "/company/2026/kompeito.html",
+      "year": "2026",
+      "overall_rating": "C",
+      "market": "東証 グロース",
+      "application_period": "8/27 ～9/2",
+      "listing_date": "9/11",
+      "winning_shares": "48,175本 （ 多い ）",
+      "expected_price": "1,560円",
+      "provisional_range": "1,560円 ～1,600円",
+      "offering_price": "1,600円",
+      "initial_price": "-",
+      "initial_price_change": "-",
+      "target_securities": [
+        {
+          "name": "SBI",
+          "url": "/security/sbi.html",
+          "role": "主"
+        },
+        {
+          "name": "松井",
+          "url": "/security/matsui.html",
+          "role": ""
+        },
+        {
+          "name": "マネックス",
+          "url": "/security/monex.html",
+          "role": ""
+        },
+        {
+          "name": "ネオトレード",
+          "url": "/security/livestar.html",
+          "role": ""
+        },
+        {
+          "name": "DMM 株",
+          "url": "/security/dmmkabu.html",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "month": 10,
+      "kabu_name": "アイビス ホールディングス",
+      "code": "9334",
+      "detail_url": "/company/2026/ibisholdings.html",
+      "year": "2026",
+      "overall_rating": "C",
+      "market": "名証 ネクスト 福証 Qボード",
+      "application_period": "9/25 ～10/1",
+      "listing_date": "10/13",
+      "winning_shares": "2,300本 （ 少ない ）",
+      "expected_price": "500円 （ 低価格 ）",
+      "provisional_range": "-",
+      "offering_price": "-",
+      "initial_price": "-",
+      "initial_price_change": "-",
+      "target_securities": [
+        {
+          "name": "フィリップ",
+          "url": "",
+          "role": "主"
+        },
+        {
+          "name": "SBI",
+          "url": "/security/sbi.html",
+          "role": ""
+        },
+        {
+          "name": "マネックス",
+          "url": "/security/monex.html",
+          "role": ""
+        },
+        {
+          "name": "楽天",
+          "url": "/security/rakuten.html",
+          "role": ""
+        },
+        {
+          "name": "松井",
+          "url": "/security/matsui.html",
+          "role": ""
+        }
+      ]
+    }
+  ],
+  "total": 10
+}
